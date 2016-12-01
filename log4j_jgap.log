@@ -1,0 +1,543 @@
+[01.12.2016 12:12:52,146] [main] INFO  CostEstimationFitness  - i: 176; j: 15
+[01.12.2016 12:12:52,147] [main] INFO  CostEstimationFitness  - i: 177; j: 1
+[01.12.2016 12:12:52,147] [main] INFO  CostEstimationFitness  - i: 177; j: 2
+[01.12.2016 12:12:52,147] [main] INFO  CostEstimationFitness  - i: 177; j: 3
+[01.12.2016 12:12:52,147] [main] INFO  CostEstimationFitness  - i: 177; j: 4
+[01.12.2016 12:12:52,147] [main] INFO  CostEstimationFitness  - i: 177; j: 5
+[01.12.2016 12:12:52,147] [main] INFO  CostEstimationFitness  - i: 177; j: 6
+[01.12.2016 12:12:52,147] [main] INFO  CostEstimationFitness  - i: 177; j: 7
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 177; j: 8
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 177; j: 9
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 177; j: 10
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 177; j: 11
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 177; j: 12
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 177; j: 13
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 177; j: 14
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 177; j: 15
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 1
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 2
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 3
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 4
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 5
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 6
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 7
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 8
+[01.12.2016 12:12:52,148] [main] INFO  CostEstimationFitness  - i: 178; j: 9
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 178; j: 10
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 178; j: 11
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 178; j: 12
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 178; j: 13
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 178; j: 14
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 178; j: 15
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 1
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 2
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 3
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 4
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 5
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 6
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 7
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 8
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 9
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 10
+[01.12.2016 12:12:52,149] [main] INFO  CostEstimationFitness  - i: 179; j: 11
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 179; j: 12
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 179; j: 13
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 179; j: 14
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 179; j: 15
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 1
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 2
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 3
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 4
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 5
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 6
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 7
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 8
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 9
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 10
+[01.12.2016 12:12:52,150] [main] INFO  CostEstimationFitness  - i: 180; j: 11
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 180; j: 12
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 180; j: 13
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 180; j: 14
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 180; j: 15
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 1
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 2
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 3
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 4
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 5
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 6
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 7
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 8
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 9
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 10
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 11
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 12
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 13
+[01.12.2016 12:12:52,151] [main] INFO  CostEstimationFitness  - i: 181; j: 14
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 181; j: 15
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 1
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 2
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 3
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 4
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 5
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 6
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 7
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 8
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 9
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 10
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 11
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 12
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 13
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 14
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 182; j: 15
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 183; j: 1
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 183; j: 2
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 183; j: 3
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 183; j: 4
+[01.12.2016 12:12:52,152] [main] INFO  CostEstimationFitness  - i: 183; j: 5
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 6
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 7
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 8
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 9
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 10
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 11
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 12
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 13
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 14
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 183; j: 15
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 184; j: 1
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 184; j: 2
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 184; j: 3
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 184; j: 4
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 184; j: 5
+[01.12.2016 12:12:52,153] [main] INFO  CostEstimationFitness  - i: 184; j: 6
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 7
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 8
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 9
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 10
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 11
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 12
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 13
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 14
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 184; j: 15
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 1
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 2
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 3
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 4
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 5
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 6
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 7
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 8
+[01.12.2016 12:12:52,154] [main] INFO  CostEstimationFitness  - i: 185; j: 9
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 185; j: 10
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 185; j: 11
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 185; j: 12
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 185; j: 13
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 185; j: 14
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 185; j: 15
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 1
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 2
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 3
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 4
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 5
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 6
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 7
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 8
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 9
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 10
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 11
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 12
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 13
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 14
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 186; j: 15
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 187; j: 1
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 187; j: 2
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 187; j: 3
+[01.12.2016 12:12:52,155] [main] INFO  CostEstimationFitness  - i: 187; j: 4
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 5
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 6
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 7
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 8
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 9
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 10
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 11
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 12
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 13
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 14
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 187; j: 15
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 1
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 2
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 3
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 4
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 5
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 6
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 7
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 8
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 9
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 10
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 11
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 12
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 13
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 14
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 188; j: 15
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 189; j: 1
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 189; j: 2
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 189; j: 3
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 189; j: 4
+[01.12.2016 12:12:52,156] [main] INFO  CostEstimationFitness  - i: 189; j: 5
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 6
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 7
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 8
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 9
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 10
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 11
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 12
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 13
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 14
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 189; j: 15
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 1
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 2
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 3
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 4
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 5
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 6
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 7
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 8
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 9
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 10
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 11
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 12
+[01.12.2016 12:12:52,157] [main] INFO  CostEstimationFitness  - i: 190; j: 13
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 190; j: 14
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 190; j: 15
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 1
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 2
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 3
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 4
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 5
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 6
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 7
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 8
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 9
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 10
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 11
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 12
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 13
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 14
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 191; j: 15
+[01.12.2016 12:12:52,158] [main] INFO  CostEstimationFitness  - i: 192; j: 1
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 2
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 3
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 4
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 5
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 6
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 7
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 8
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 9
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 10
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 11
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 12
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 13
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 14
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 192; j: 15
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 1
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 2
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 3
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 4
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 5
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 6
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 7
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 8
+[01.12.2016 12:12:52,159] [main] INFO  CostEstimationFitness  - i: 193; j: 9
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 193; j: 10
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 193; j: 11
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 193; j: 12
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 193; j: 13
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 193; j: 14
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 193; j: 15
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 1
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 2
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 3
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 4
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 5
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 6
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 7
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 8
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 9
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 10
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 11
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 12
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 13
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 14
+[01.12.2016 12:12:52,160] [main] INFO  CostEstimationFitness  - i: 194; j: 15
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 1
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 2
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 3
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 4
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 5
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 6
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 7
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 8
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 9
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 10
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 11
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 12
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 13
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 14
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 195; j: 15
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 196; j: 1
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 196; j: 2
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 196; j: 3
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 196; j: 4
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 196; j: 5
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 196; j: 6
+[01.12.2016 12:12:52,161] [main] INFO  CostEstimationFitness  - i: 196; j: 7
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 196; j: 8
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 196; j: 9
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 196; j: 10
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 196; j: 11
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 196; j: 12
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 196; j: 13
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 196; j: 14
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 196; j: 15
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 1
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 2
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 3
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 4
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 5
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 6
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 7
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 8
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 9
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 10
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 11
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 12
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 13
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 14
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 197; j: 15
+[01.12.2016 12:12:52,162] [main] INFO  CostEstimationFitness  - i: 198; j: 1
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 2
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 3
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 4
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 5
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 6
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 7
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 8
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 9
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 10
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 11
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 12
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 13
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 14
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 198; j: 15
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 1
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 2
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 3
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 4
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 5
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 6
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 7
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 8
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 9
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 10
+[01.12.2016 12:12:52,163] [main] INFO  CostEstimationFitness  - i: 199; j: 11
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 199; j: 12
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 199; j: 13
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 199; j: 14
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 199; j: 15
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 1
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 2
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 3
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 4
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 5
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 6
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 7
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 8
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 9
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 10
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 11
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 12
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 13
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 14
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 200; j: 15
+[01.12.2016 12:12:52,164] [main] INFO  CostEstimationFitness  - i: 201; j: 1
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 2
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 3
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 4
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 5
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 6
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 7
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 8
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 9
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 10
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 11
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 12
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 13
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 14
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 201; j: 15
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 202; j: 1
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 202; j: 2
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 202; j: 3
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 202; j: 4
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 202; j: 5
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 202; j: 6
+[01.12.2016 12:12:52,165] [main] INFO  CostEstimationFitness  - i: 202; j: 7
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 202; j: 8
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 202; j: 9
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 202; j: 10
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 202; j: 11
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 202; j: 12
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 202; j: 13
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 202; j: 14
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 202; j: 15
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 1
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 2
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 3
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 4
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 5
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 6
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 7
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 8
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 9
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 10
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 11
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 12
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 13
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 14
+[01.12.2016 12:12:52,166] [main] INFO  CostEstimationFitness  - i: 203; j: 15
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 1
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 2
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 3
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 4
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 5
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 6
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 7
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 8
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 9
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 10
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 11
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 12
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 13
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 14
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 204; j: 15
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 205; j: 1
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 205; j: 2
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 205; j: 3
+[01.12.2016 12:12:52,167] [main] INFO  CostEstimationFitness  - i: 205; j: 4
+[01.12.2016 12:12:52,168] [main] INFO  CostEstimationFitness  - i: 205; j: 5
+[01.12.2016 12:12:52,168] [main] INFO  CostEstimationFitness  - i: 205; j: 6
+[01.12.2016 12:12:52,168] [main] INFO  CostEstimationFitness  - i: 205; j: 7
+[01.12.2016 12:12:52,168] [main] INFO  CostEstimationFitness  - i: 205; j: 8
+[01.12.2016 12:12:52,168] [main] INFO  CostEstimationFitness  - i: 205; j: 9
+[01.12.2016 12:12:52,168] [main] INFO  CostEstimationFitness  - i: 205; j: 10
+[01.12.2016 12:12:52,168] [main] INFO  CostEstimationFitness  - i: 205; j: 11
+[01.12.2016 12:12:52,168] [main] INFO  CostEstimationFitness  - i: 205; j: 12
+[01.12.2016 12:12:59,071] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:12:59,101] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:12:59,104] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:12:59,115] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:12:59,172] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:12:59,173] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 12:12:59,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 12:12:59,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: @attribute
+[01.12.2016 12:12:59,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 0
+[01.12.2016 12:13:04,353] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 93.5 MB
+[01.12.2016 12:13:05,280] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 12:13:05,280] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: @attribute
+[01.12.2016 12:13:05,281] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 0
+[01.12.2016 12:18:12,678] [main] INFO  FileObject  - Data as in file: 
+[01.12.2016 12:18:21,653] [main] INFO  FileObject  - Data as in file: 
+[01.12.2016 12:18:41,065] [main] INFO  FileObject  - Data as in file: 
+[01.12.2016 12:19:57,181] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:19:57,219] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:19:57,224] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:19:57,239] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:19:57,297] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:19:57,298] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:20:54,741] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:20:54,769] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:20:54,775] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:20:54,795] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:20:54,845] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:20:54,846] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:21:36,099] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:21:36,137] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:21:36,140] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:21:36,155] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:21:36,204] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:21:36,205] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:22:24,000] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:22:24,038] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:22:24,042] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:22:24,058] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:22:24,115] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:22:24,116] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:26:42,180] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:26:42,259] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:26:42,289] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:26:42,293] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:26:42,307] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:26:42,372] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:26:42,373] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:28:22,921] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:28:22,994] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:28:23,032] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:28:23,035] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:28:23,050] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:28:23,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:28:23,098] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:30:42,400] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:30:42,530] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:30:42,563] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:30:42,567] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:30:42,580] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:30:42,625] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:30:42,626] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:31:17,561] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:31:17,642] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:31:17,668] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:31:17,674] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:31:17,686] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:31:17,735] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:31:17,736] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:34:02,312] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:34:02,409] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:34:02,442] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:34:02,447] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:34:02,467] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:34:02,537] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:34:02,538] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:36:19,801] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:36:19,879] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:36:19,911] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:36:19,912] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:36:19,928] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:36:19,980] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:36:19,981] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:37:32,116] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:37:32,201] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:37:32,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:37:32,234] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:37:32,247] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:37:32,292] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:37:32,293] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:39:05,101] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:39:05,180] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:39:05,212] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:39:05,214] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:39:05,228] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:39:05,279] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:39:05,281] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:39:38,859] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:39:38,948] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:39:38,977] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:39:38,999] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:39:39,014] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:39:39,060] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:39:39,061] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 12:45:28,619] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 12:45:28,698] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 12:45:28,727] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 12:45:28,734] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 12:45:28,748] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 12:45:28,795] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 12:45:28,797] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
