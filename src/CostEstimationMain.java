@@ -11,7 +11,7 @@ public class CostEstimationMain {
         GPGenotype gp = problem.create();
         gp.setVerboseOutput(true);
         gp.evolve(Parameters.EVOLVE);
-        System.out.println("\n");
+        System.out.println("");
         log.info("Evaulation of dataset: " + Parameters.FILENAME);
         gp.outputSolution(gp.getAllTimeBest());
 	}
