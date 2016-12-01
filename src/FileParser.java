@@ -27,7 +27,11 @@ public class FileParser {
 			while(!currentLine.contains("@data")){
 				if(currentLine.contains("@attribute") && !currentLine.contains("%")){
 					//System.out.println(currentLine.substring("@attribute".length()+1));
-					attributes.add(currentLine.substring("@attribute".length()).trim().replace(" ", "_"));
+					attributes.add(
+							currentLine.substring("@attribute".length(), 
+													currentLine.length() - "numeric".length())
+										.trim()
+										.replaceAll("[ \\t]+", "_"));
 				} 
 				currentLine = br.readLine(); 
 				lineNum++;
@@ -49,9 +53,13 @@ public class FileParser {
 						System.out.println("Mismatching number of tokens found on line " + lineNum + 
 								"; tokens: " + tokens.length + ", attributes: " + attributes.size());
 					}
-
 					for(int i = 0; i < tokens.length; i++){
-						values_by_attr.get(i).add(Double.parseDouble(tokens[i].trim()));
+						try{
+							values_by_attr.get(i).add(Double.parseDouble(tokens[i].trim()));
+						} catch(NumberFormatException e){
+							//log.info("line " + lineNum + ", token " + i + ": Not a valid Double, replacing with 1.0");
+							values_by_attr.get(i).add((double) lineNum);
+						} 
 					}
 				}
 
@@ -67,8 +75,7 @@ public class FileParser {
 				for(int i = 0; i < attributes.size(); i++){
 					System.out.println(attributes.get(i));
 				}
-				System.out.println("Data as in file: ");
-				for(int i = 0; i < values_by_attr.get(0).size(); i++){
+				for(int i = 0; i < values_by_attr.get(values_by_attr.size()-1).size(); i++){
 					for(int j = 0; j < values_by_attr.size(); j++){
 						System.out.print(values_by_attr.get(j).get(i).intValue() + ",");
 					}

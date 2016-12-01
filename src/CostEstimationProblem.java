@@ -10,6 +10,7 @@ import org.jgap.gp.function.Exp;
 import org.jgap.gp.function.Log;
 import org.jgap.gp.function.Multiply;
 import org.jgap.gp.function.Subtract;
+import org.jgap.gp.impl.DefaultGPFitnessEvaluator;
 import org.jgap.gp.impl.DeltaGPFitnessEvaluator;
 import org.jgap.gp.impl.GPConfiguration;
 import org.jgap.gp.impl.GPGenotype;
@@ -44,9 +45,25 @@ public class CostEstimationProblem extends GPProblem{
         
         config.setGPFitnessEvaluator(new DeltaGPFitnessEvaluator());
         config.setMaxInitDepth(Parameters.MAX_INIT_DEPTH);
+        config.setCrossoverProb(Parameters.CROSSOVER_PROBABILITY);
         config.setPopulationSize(Parameters.POPULATION_SIZE);
         config.setMaxCrossoverDepth(Parameters.MAX_CROSSOVER_DEPTH);
-        config.setFitnessFunction(new CostEstimationFitness(inputs, outputs, variables)); // Inputs, Efforts, and variables
+        
+        if(Parameters.USE_MAE){
+        	config.setFitnessFunction(new CostEstimationMAEFitness(inputs, outputs, variables)); // Inputs, Efforts, and variables
+        } else if(Parameters.USE_MMRE) {
+        	config.setFitnessFunction(new CostEstimationMMREFitness(inputs, outputs, variables)); // Inputs, Efforts, and variables
+        } else if(Parameters.USE_PREDN) { 
+        	config.setFitnessFunction(new CostEstimationPREDNFitness(inputs, outputs, variables)); // Inputs, Efforts, and variables
+        } else {
+        	config.setFitnessFunction(new CostEstimationMAEFitness(inputs, outputs, variables)); // Inputs, Efforts, and variables
+        }
+        
+        if(Parameters.USE_PREDN && !Parameters.USE_MAE && !Parameters.USE_MMRE){
+        	config.setGPFitnessEvaluator(new DefaultGPFitnessEvaluator());
+        } else {
+        	config.setGPFitnessEvaluator(new DeltaGPFitnessEvaluator());
+        }
         config.setStrictProgramCreation(Parameters.STRICT_PROGRAM_CREATION);
 	}
 	

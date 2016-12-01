@@ -5,7 +5,7 @@ import org.jgap.gp.GPFitnessFunction;
 import org.jgap.gp.IGPProgram;
 import org.jgap.gp.terminal.Variable;
 
-public class CostEstimationFitness extends GPFitnessFunction {
+public class CostEstimationMAEFitness extends GPFitnessFunction {
 
 	private static final long serialVersionUID = -7681378576167093531L;
 	
@@ -17,9 +17,9 @@ public class CostEstimationFitness extends GPFitnessFunction {
 	
 	private static Object[] NO_ARGS = new Object[0];
 	
-	Logger log = Logger.getLogger(CostEstimationFitness.class);
+	Logger log = Logger.getLogger(CostEstimationMAEFitness.class);
 	
-	public CostEstimationFitness(List<List<Double>> inputs, List<Double> outputs, List<Variable> variables) {
+	public CostEstimationMAEFitness(List<List<Double>> inputs, List<Double> outputs, List<Variable> variables) {
 
 		this.inputs = inputs;
 		this.outputs = outputs; // Efforts are in the last column
@@ -39,12 +39,11 @@ public class CostEstimationFitness extends GPFitnessFunction {
 	        	for(int j = 0; j < variables.size(); j++){ 
 	        		variables.get(j).set(inputs.get(j).get(i));
 	        	}
-	        	
 	        	double value = program.execute_double(0, NO_ARGS);
-        		
         		result += Math.abs(value - outputs.get(i));
 	        }
-
+	        result = result/dataLen;
+	        
 	        return result;
 	    }
 
