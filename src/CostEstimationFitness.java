@@ -15,6 +15,8 @@ public class CostEstimationFitness extends GPFitnessFunction {
 	
 	private int dataLen;
 	
+	private static Object[] NO_ARGS = new Object[0];
+	
 	Logger log = Logger.getLogger(CostEstimationFitness.class);
 	
 	public CostEstimationFitness(List<List<Double>> inputs, List<Double> outputs, List<Variable> variables) {
@@ -32,24 +34,16 @@ public class CostEstimationFitness extends GPFitnessFunction {
 	protected double evaluate(IGPProgram program) {
 	        double result = 0.0f;
 
-	        long longResult = 0;
 	        for (int i = 0; i < dataLen; i++) {
 	            // Set the input values
 	        	for(int j = 0; j < variables.size(); j++){ 
 	        		variables.get(j).set(inputs.get(j).get(i));
-	        		
-	        		System.out.println("i: " + i + "; j: " + j);
-	        		
-	        		System.out.println("Var: " + variables.get(j).getName() + " - " + variables.get(j).getValue());
-	        		System.out.println("In: " + inputs.get(j).get(i));
-	        		
-	        		long value = (long) program.execute_double(0, new Object[0]);
-	        		
-	        		longResult += Math.abs(value - outputs.get(i));
 	        	}
+	        	
+	        	double value = program.execute_double(0, NO_ARGS);
+        		
+        		result += Math.abs(value - outputs.get(i));
 	        }
-
-	        result = longResult;
 
 	        return result;
 	    }

@@ -541,3 +541,1619 @@
 [01.12.2016 12:45:28,748] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
 [01.12.2016 12:45:28,795] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
 [01.12.2016 12:45:28,797] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:03:47,342] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:03:56,267] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:03:56,384] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:03:56,411] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:03:56,417] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:03:56,459] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:03:56,512] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:03:56,512] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 13:05:09,886] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:05:12,976] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:05:13,054] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:05:13,087] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:05:13,089] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:05:13,103] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:05:13,148] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:05:13,149] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:08:54,291] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:08:54,390] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:08:54,429] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:08:54,432] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:08:54,447] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:08:54,500] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:08:54,501] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:24:13,510] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:24:13,590] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:24:13,622] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:24:13,625] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:24:13,637] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:24:13,685] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:24:13,686] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:25:15,517] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:25:15,599] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:25:15,636] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:25:15,639] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:25:15,650] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:25:15,696] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:25:15,697] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:25:38,928] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:25:39,014] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:25:39,036] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:25:39,040] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:25:39,054] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:25:39,113] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:25:39,114] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:25:42,078] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:25:42,197] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:25:42,220] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:25:42,223] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:25:42,233] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:25:42,279] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:25:42,280] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:25:44,404] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:25:44,491] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:25:44,534] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:25:44,537] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:25:44,547] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:25:44,597] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:25:44,598] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:25:46,160] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:25:46,295] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:25:46,330] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:25:46,333] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:25:46,348] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:25:46,399] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:25:46,399] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:25:47,787] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:25:47,866] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:25:47,888] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:25:47,893] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:25:47,914] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:25:47,958] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:25:47,959] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:25:49,247] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:25:49,329] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:25:49,359] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:25:49,361] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:25:49,376] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:25:49,420] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:25:49,421] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:27:13,773] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:27:13,855] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:27:13,887] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:27:13,889] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:27:13,901] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:27:13,945] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:27:13,946] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:27:30,453] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:27:30,532] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:27:30,564] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:27:30,567] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:27:30,577] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:27:30,619] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:27:30,620] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:27:30,812] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 179196.0
+[01.12.2016 13:27:30,812] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric
+[01.12.2016 13:27:30,812] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 0
+[01.12.2016 13:27:30,969] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 75188.0
+[01.12.2016 13:27:30,969] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (File_numeric + Enquiry_numeric) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 13:27:30,969] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:27:31,057] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5865.0
+[01.12.2016 13:27:31,057] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 13:27:31,057] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 13:27:31,987] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 111.6 MB
+[01.12.2016 13:27:32,247] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5865.0
+[01.12.2016 13:27:32,248] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 13:27:32,248] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 13:28:58,020] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:28:58,112] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:28:58,139] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:28:58,142] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:28:58,156] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:28:58,213] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:28:58,214] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:28:58,416] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 179196.0
+[01.12.2016 13:28:58,417] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric
+[01.12.2016 13:28:58,417] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 0
+[01.12.2016 13:28:58,542] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5669.0
+[01.12.2016 13:28:58,542] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 13:28:58,542] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 13:28:59,566] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 110.5 MB
+[01.12.2016 13:28:59,792] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5669.0
+[01.12.2016 13:28:59,792] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 13:28:59,794] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 13:31:18,393] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:31:18,497] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:31:18,533] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:31:18,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:31:18,546] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:31:18,586] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:31:18,587] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:31:18,752] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11768.0
+[01.12.2016 13:31:18,752] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + (Resource_numeric * NPDR_AFP_numeric)
+[01.12.2016 13:31:18,753] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:31:18,868] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5669.0
+[01.12.2016 13:31:18,868] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 13:31:18,868] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 13:31:19,147] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5668.0
+[01.12.2016 13:31:19,147] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + Resource_numeric
+[01.12.2016 13:31:19,148] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:31:19,438] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5661.0
+[01.12.2016 13:31:19,439] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (1.0 + (PDR_AFP_numeric * AFP_numeric)) + (Dev.Type_numeric * AFP_numeric)
+[01.12.2016 13:31:19,439] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:31:19,956] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 84.5 MB
+[01.12.2016 13:31:20,204] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5661.0
+[01.12.2016 13:31:20,205] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (1.0 + (PDR_AFP_numeric * AFP_numeric)) + (Dev.Type_numeric * AFP_numeric)
+[01.12.2016 13:31:20,205] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:31:31,076] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:31:31,161] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:31:31,185] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:31:31,188] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:31:31,202] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:31:31,263] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:31:31,264] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:31:31,486] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5669.0
+[01.12.2016 13:31:31,486] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 13:31:31,487] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 13:31:32,607] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 110.5 MB
+[01.12.2016 13:31:32,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5669.0
+[01.12.2016 13:31:32,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 13:31:32,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 13:33:43,698] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:33:43,782] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:33:43,811] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:33:43,815] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:33:43,830] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:33:43,884] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:33:43,885] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:33:44,121] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:33:44,121] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((5.0 * Duration_numeric) * (Output_numeric + 5.0)) / ((Dev.Type_numeric * Duration_numeric) + (Dev.Type_numeric / Deleted_numeric))
+[01.12.2016 13:33:44,121] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:33:45,773] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 104.9 MB
+[01.12.2016 13:33:46,088] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:33:46,089] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((5.0 * Duration_numeric) * (Output_numeric + 5.0)) / ((Dev.Type_numeric * Duration_numeric) + (Dev.Type_numeric / Deleted_numeric))
+[01.12.2016 13:33:46,089] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:44:42,706] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:44:42,785] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:44:42,824] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:44:42,827] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:44:42,841] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:44:42,893] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:44:42,894] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:44:43,095] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:44:43,095] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Dev.Type_numeric + NPDU_UFP_numeric) + (((Changed_numeric / Dev.Type_numeric) / (Output_numeric + Deleted_numeric)) / ((Dev.Type_numeric / Dev.Type_numeric) + (4.0 * Dev.Type_numeric)))
+[01.12.2016 13:44:43,095] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 13:44:44,726] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.2 MB
+[01.12.2016 13:44:45,041] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:44:45,041] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Dev.Type_numeric + NPDU_UFP_numeric) + (((Changed_numeric / Dev.Type_numeric) / (Output_numeric + Deleted_numeric)) / ((Dev.Type_numeric / Dev.Type_numeric) + (4.0 * Dev.Type_numeric)))
+[01.12.2016 13:44:45,041] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 13:45:16,893] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:45:16,899] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:45:16,908] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:45:16,947] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:45:16,948] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 13:45:17,016] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 127.0
+[01.12.2016 13:45:17,018] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X + (X * (3 + X))) + ((3 + Y) + (10 + 10))
+[01.12.2016 13:45:17,019] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 13:45:17,055] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 73.0
+[01.12.2016 13:45:17,056] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X + 9) + (Y + X)) + (X + (X * X))
+[01.12.2016 13:45:17,056] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:45:17,200] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 25.0
+[01.12.2016 13:45:17,200] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Y + ((X * X) + Y)) + (X * 3)
+[01.12.2016 13:45:17,200] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 13:45:17,211] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 15.0
+[01.12.2016 13:45:17,212] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X + Y) + (X * X)) + ((X + Y) + (2 + X))
+[01.12.2016 13:45:17,213] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:45:17,247] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5.0
+[01.12.2016 13:45:17,247] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 6 + (Y + ((Y + (X * X)) + (X * 3)))
+[01.12.2016 13:45:17,247] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 13:45:17,283] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:45:17,283] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X + Y) + ((X + 5) + ((X * X) + Y))) + X
+[01.12.2016 13:45:17,284] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 13:45:17,436] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 108.3 MB
+[01.12.2016 13:45:17,499] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:45:17,499] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X + Y) + ((X + 5) + ((X * X) + Y))) + X
+[01.12.2016 13:45:17,499] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 13:45:57,358] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:45:57,435] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:45:57,474] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:45:57,478] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:45:57,491] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:45:57,553] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:45:57,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:45:57,758] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:45:57,759] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Deleted_numeric * NPDR_AFP_numeric) / (Interface_numeric + Dev.Type_numeric)) / ((N_effort_numeric / Output_numeric) + (5.0 / 5.0))
+[01.12.2016 13:45:57,759] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:45:59,399] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 104.3 MB
+[01.12.2016 13:45:59,715] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:45:59,716] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Deleted_numeric * NPDR_AFP_numeric) / (Interface_numeric + Dev.Type_numeric)) / ((N_effort_numeric / Output_numeric) + (5.0 / 5.0))
+[01.12.2016 13:45:59,716] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:46:18,039] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:46:18,121] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:46:18,156] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:46:18,159] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:46:18,174] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:46:18,223] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:46:18,225] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:46:18,457] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:46:18,458] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((N_effort_numeric * Interface_numeric) / (Output_numeric - NPDR_AFP_numeric)) / ((AFP_numeric / Resource_numeric) * (AFP_numeric * Deleted_numeric))
+[01.12.2016 13:46:18,458] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:46:20,052] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 104.3 MB
+[01.12.2016 13:46:20,385] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:46:20,385] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((N_effort_numeric * Interface_numeric) / (Output_numeric - NPDR_AFP_numeric)) / ((AFP_numeric / Resource_numeric) * (AFP_numeric * Deleted_numeric))
+[01.12.2016 13:46:20,385] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:46:27,204] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:46:27,282] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:46:27,307] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:46:27,311] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:46:27,330] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:46:27,381] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:46:27,383] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:46:27,599] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:46:27,599] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric + 4.0) - (Dev.Type_numeric / Dev.Type_numeric)
+[01.12.2016 13:46:27,599] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:46:29,209] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.8 MB
+[01.12.2016 13:46:29,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:46:29,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric + 4.0) - (Dev.Type_numeric / Dev.Type_numeric)
+[01.12.2016 13:46:29,549] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:46:58,992] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:46:59,067] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:46:59,095] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:46:59,099] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:46:59,119] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:46:59,170] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:46:59,171] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:46:59,403] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:46:59,403] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric + NPDR_AFP_numeric) * (Interface_numeric / Dev.Type_numeric)
+[01.12.2016 13:46:59,403] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:47:01,010] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 106.0 MB
+[01.12.2016 13:47:01,318] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:47:01,319] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric + NPDR_AFP_numeric) * (Interface_numeric / Dev.Type_numeric)
+[01.12.2016 13:47:01,319] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:47:12,188] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:47:12,277] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:47:12,302] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:47:12,309] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:47:12,342] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:47:12,393] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:47:12,394] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:47:12,602] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:47:12,603] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Added_numeric / ((Added_numeric - Changed_numeric) - (File_numeric / Deleted_numeric))
+[01.12.2016 13:47:12,603] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:47:14,217] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 104.2 MB
+[01.12.2016 13:47:14,537] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:47:14,537] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Added_numeric / ((Added_numeric - Changed_numeric) - (File_numeric / Deleted_numeric))
+[01.12.2016 13:47:14,537] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 13:47:17,625] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:47:17,766] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:47:17,795] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:47:17,799] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:47:17,814] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:47:17,922] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:47:17,923] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:47:18,122] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 13:47:18,222] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 13:47:18,256] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 13:47:18,260] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 13:47:18,291] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:47:18,291] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (3.0 - Input_numeric) - (Interface_numeric / Dev.Type_numeric)
+[01.12.2016 13:47:18,292] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:47:18,294] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 13:47:18,353] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 13:47:18,355] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 13:47:18,579] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:47:18,579] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Interface_numeric - Dev.Type_numeric) * (File_numeric / 0.0)
+[01.12.2016 13:47:18,579] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:47:20,452] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 106.0 MB
+[01.12.2016 13:47:20,761] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 105.5 MB
+[01.12.2016 13:47:21,025] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:47:21,025] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (3.0 - Input_numeric) - (Interface_numeric / Dev.Type_numeric)
+[01.12.2016 13:47:21,025] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 13:47:21,234] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 13:47:21,234] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Interface_numeric - Dev.Type_numeric) * (File_numeric / 0.0)
+[01.12.2016 13:47:21,234] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:01:42,164] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:01:42,242] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:01:42,273] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:01:42,278] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:01:42,292] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:01:42,334] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:01:42,335] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:01:42,511] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 14:01:42,512] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Dev.Type_numeric / Deleted_numeric) + (3.0 / Changed_numeric)) / ((Resource_numeric - Enquiry_numeric) * (NPDR_AFP_numeric * Deleted_numeric))
+[01.12.2016 14:01:42,512] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:01:44,124] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.1 MB
+[01.12.2016 14:01:44,443] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 14:01:44,443] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Dev.Type_numeric / Deleted_numeric) + (3.0 / Changed_numeric)) / ((Resource_numeric - Enquiry_numeric) * (NPDR_AFP_numeric * Deleted_numeric))
+[01.12.2016 14:01:44,444] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:01:51,924] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:01:52,002] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:01:52,038] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:01:52,042] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:01:52,055] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:01:52,114] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:01:52,115] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:01:52,326] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 14:01:52,327] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((File_numeric + Duration_numeric) / ((Deleted_numeric * 6.0) * (File_numeric / Dev.Type_numeric))) + ((AFP_numeric + 6.0) - (PDR_UFP_numeric + Resource_numeric))
+[01.12.2016 14:01:52,327] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:01:54,023] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 101.5 MB
+[01.12.2016 14:01:54,351] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[01.12.2016 14:01:54,352] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((File_numeric + Duration_numeric) / ((Deleted_numeric * 6.0) * (File_numeric / Dev.Type_numeric))) + ((AFP_numeric + 6.0) - (PDR_UFP_numeric + Resource_numeric))
+[01.12.2016 14:01:54,352] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:02:22,836] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:02:22,930] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:02:22,954] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:02:22,958] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:02:22,972] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:02:23,026] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:02:23,027] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:02:23,227] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 177990.00
+[01.12.2016 14:02:23,228] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric - PDR_UFP_numeric) + (N_effort_numeric - PDR_AFP_numeric)
+[01.12.2016 14:02:23,228] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:02:23,295] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 177990.0
+[01.12.2016 14:02:23,295] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric - PDR_UFP_numeric
+[01.12.2016 14:02:23,295] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:02:23,655] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 176783.99
+[01.12.2016 14:02:23,656] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric - PDR_UFP_numeric) + (((PDR_AFP_numeric - PDR_UFP_numeric) + (N_effort_numeric - PDR_AFP_numeric)) - PDR_AFP_numeric)
+[01.12.2016 14:02:23,656] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:02:23,778] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:02:23,779] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 14:02:23,779] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:02:24,023] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5836.98
+[01.12.2016 14:02:24,023] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + ((AFP_numeric + PDR_UFP_numeric) / (N_effort_numeric - PDR_UFP_numeric))
+[01.12.2016 14:02:24,023] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:02:24,086] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5829.02
+[01.12.2016 14:02:24,086] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + (((N_effort_numeric - PDR_UFP_numeric) - PDR_AFP_numeric) / (N_effort_numeric - PDR_UFP_numeric))
+[01.12.2016 14:02:24,086] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:02:24,274] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5828.28
+[01.12.2016 14:02:24,275] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + (((AFP_numeric * PDR_AFP_numeric) - PDR_AFP_numeric) / (N_effort_numeric - PDR_UFP_numeric))
+[01.12.2016 14:02:24,275] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:02:24,408] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5827.88
+[01.12.2016 14:02:24,409] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((PDR_AFP_numeric - PDR_UFP_numeric) + (((N_effort_numeric - PDR_UFP_numeric) - PDR_UFP_numeric) - PDR_UFP_numeric)) / N_effort_numeric) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:02:24,409] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:02:24,556] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5827.26
+[01.12.2016 14:02:24,556] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (((((AFP_numeric * PDR_AFP_numeric) - PDR_AFP_numeric) - PDR_AFP_numeric) - 4.0) / (N_effort_numeric - PDR_UFP_numeric))
+[01.12.2016 14:02:24,557] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:02:24,740] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 104.9 MB
+[01.12.2016 14:02:24,868] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5827.00
+[01.12.2016 14:02:24,868] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (((((AFP_numeric * PDR_AFP_numeric) - PDR_AFP_numeric) - PDR_AFP_numeric) - PDR_UFP_numeric) / (N_effort_numeric - PDR_UFP_numeric))
+[01.12.2016 14:02:24,868] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:02:25,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5827.00
+[01.12.2016 14:02:25,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (((((AFP_numeric * PDR_AFP_numeric) - PDR_AFP_numeric) - PDR_AFP_numeric) - PDR_UFP_numeric) / (N_effort_numeric - PDR_UFP_numeric))
+[01.12.2016 14:02:25,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:04:32,810] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:04:32,908] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:04:32,951] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:04:32,954] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:04:32,967] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:04:33,018] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:04:33,020] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:04:33,223] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 177990.0
+[01.12.2016 14:04:33,223] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric - PDR_UFP_numeric
+[01.12.2016 14:04:33,223] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:04:33,284] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 175851.7
+[01.12.2016 14:04:33,284] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Resource_numeric - PDR_UFP_numeric) - (NPDU_UFP_numeric - N_effort_numeric)
+[01.12.2016 14:04:33,285] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:04:33,590] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 175100.49
+[01.12.2016 14:04:33,590] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (N_effort_numeric - PDR_UFP_numeric) - (NPDR_AFP_numeric + PDR_AFP_numeric)
+[01.12.2016 14:04:33,591] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:04:33,752] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:04:33,752] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 14:04:33,752] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:04:34,561] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 106.0 MB
+[01.12.2016 14:04:34,816] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:04:34,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 14:04:34,817] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:04:37,492] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:04:37,569] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:04:37,592] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:04:37,595] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:04:37,613] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:04:37,660] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:04:37,661] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:04:37,860] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 179196.0
+[01.12.2016 14:04:37,860] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric
+[01.12.2016 14:04:37,860] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 0
+[01.12.2016 14:04:38,029] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:04:38,029] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 14:04:38,029] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:04:39,141] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 107.8 MB
+[01.12.2016 14:04:39,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:04:39,403] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 14:04:39,405] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:14:22,805] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:15:47,810] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:16:43,299] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:16:50,062] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:17:00,186] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:17:00,266] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:17:00,297] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:17:00,301] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:17:00,316] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:17:00,367] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:17:00,368] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:17:00,580] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 56005.49
+[01.12.2016 14:17:00,581] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Output_numeric + (PDR_AFP_numeric * AFP_numeric)
+[01.12.2016 14:17:00,581] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:17:00,750] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:17:00,750] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 14:17:00,751] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:17:01,722] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5836.49
+[01.12.2016 14:17:01,723] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + Resource_numeric
+[01.12.2016 14:17:01,723] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:17:01,877] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 104.4 MB
+[01.12.2016 14:17:02,135] [main] INFO  CostEstimationMain  - Evaulation of dataset: china.arff
+[01.12.2016 14:17:02,135] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5836.49
+[01.12.2016 14:17:02,136] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + Resource_numeric
+[01.12.2016 14:17:02,136] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:18:50,490] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:18:50,576] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:18:50,607] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:18:50,611] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:18:50,624] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:18:50,690] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:18:50,691] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.2 MB
+[01.12.2016 14:18:50,963] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:18:50,963] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:18:50,964] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:18:52,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5836.49
+[01.12.2016 14:18:52,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Resource_numeric + (PDR_AFP_numeric * AFP_numeric)
+[01.12.2016 14:18:52,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:18:52,962] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 118.6 MB
+[01.12.2016 14:18:53,124] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5832.51
+[01.12.2016 14:18:53,125] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + (Output_numeric / AFP_numeric)
+[01.12.2016 14:18:53,127] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:18:53,975] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5828.87
+[01.12.2016 14:18:53,976] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + (Resource_numeric / NPDU_UFP_numeric)
+[01.12.2016 14:18:53,976] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:18:54,354] [main] INFO  CostEstimationMain  - Evaulation of dataset: china.arff
+[01.12.2016 14:18:54,354] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5828.87
+[01.12.2016 14:18:54,354] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + (Resource_numeric / NPDU_UFP_numeric)
+[01.12.2016 14:18:54,354] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:19:45,752] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:19:45,839] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:19:45,868] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:19:45,870] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:19:45,883] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:19:45,952] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:19:45,954] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 119.9 MB
+[01.12.2016 14:19:46,271] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:19:46,271] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * AFP_numeric
+[01.12.2016 14:19:46,271] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:19:47,074] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5829.69
+[01.12.2016 14:19:47,075] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (NPDR_AFP_numeric / NPDR_AFP_numeric) + (PDR_AFP_numeric * AFP_numeric)
+[01.12.2016 14:19:47,075] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:19:48,373] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5828.32
+[01.12.2016 14:19:48,374] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric * AFP_numeric) + (PDR_AFP_numeric / NPDU_UFP_numeric)
+[01.12.2016 14:19:48,374] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:19:49,100] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 101.4 MB
+[01.12.2016 14:19:49,345] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5826.78
+[01.12.2016 14:19:49,345] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) + (PDR_AFP_numeric * AFP_numeric)
+[01.12.2016 14:19:49,345] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:19:50,882] [main] INFO  CostEstimationMain  - 
+Evaulation of dataset: china.arff
+[01.12.2016 14:19:50,882] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5826.78
+[01.12.2016 14:19:50,882] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) + (PDR_AFP_numeric * AFP_numeric)
+[01.12.2016 14:19:50,882] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:19:55,074] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:19:55,153] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:19:55,187] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:19:55,190] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:19:55,204] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:19:55,254] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:19:55,254] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:19:55,455] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 31071.30
+[01.12.2016 14:19:55,456] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Enquiry_numeric - Dev.Type_numeric) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:19:55,456] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:19:55,576] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 20765.49
+[01.12.2016 14:19:55,577] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Interface_numeric + Deleted_numeric) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:19:55,577] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:19:55,625] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:19:55,625] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:19:55,626] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:19:56,377] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5831.23
+[01.12.2016 14:19:56,378] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (NPDR_AFP_numeric / NPDU_UFP_numeric)
+[01.12.2016 14:19:56,378] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:19:56,698] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 104.9 MB
+[01.12.2016 14:19:57,436] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5829.69
+[01.12.2016 14:19:57,436] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:19:57,436] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:19:57,437] [main] INFO  CostEstimationMain  - 
+Evaulation of dataset: china.arff
+[01.12.2016 14:19:57,437] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5829.69
+[01.12.2016 14:19:57,437] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:19:57,437] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:20:30,024] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:20:30,150] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:20:30,185] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:20:30,187] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:20:30,197] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:20:30,241] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:20:30,242] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:20:30,436] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 117884.99
+[01.12.2016 14:20:30,437] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: PDR_AFP_numeric * (Interface_numeric + AFP_numeric)
+[01.12.2016 14:20:30,437] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:20:30,495] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2319.57
+[01.12.2016 14:20:30,495] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric / (NPDR_AFP_numeric / PDR_AFP_numeric)
+[01.12.2016 14:20:30,496] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:20:31,658] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 107.2 MB
+[01.12.2016 14:20:32,411] [main] INFO  CostEstimationMain  - Evaulation of dataset: china.arff
+
+[01.12.2016 14:20:32,412] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2319.57
+[01.12.2016 14:20:32,413] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric / (NPDR_AFP_numeric / PDR_AFP_numeric)
+[01.12.2016 14:20:32,413] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:20:54,424] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:20:54,501] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:20:54,526] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:20:54,529] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:20:54,546] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:20:54,601] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:20:54,602] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:20:54,805] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 179196.0
+[01.12.2016 14:20:54,805] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric
+[01.12.2016 14:20:54,806] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 0
+[01.12.2016 14:20:54,865] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 177376.80
+[01.12.2016 14:20:54,865] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric - NPDR_AFP_numeric
+[01.12.2016 14:20:54,865] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:20:54,926] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 175046.00
+[01.12.2016 14:20:54,927] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (N_effort_numeric - Deleted_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)
+[01.12.2016 14:20:54,927] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:20:55,183] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 173738.39
+[01.12.2016 14:20:55,184] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (N_effort_numeric - NPDR_AFP_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)
+[01.12.2016 14:20:55,184] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:20:55,239] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 171445.99
+[01.12.2016 14:20:55,239] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((N_effort_numeric - Deleted_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)
+[01.12.2016 14:20:55,240] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:20:55,354] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 169667.0
+[01.12.2016 14:20:55,355] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((N_effort_numeric - Deleted_numeric) - ((NPDR_AFP_numeric + NPDR_AFP_numeric) + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)
+[01.12.2016 14:20:55,355] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:20:55,414] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 167898.40
+[01.12.2016 14:20:55,414] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((N_effort_numeric - Deleted_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)
+[01.12.2016 14:20:55,414] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:20:55,473] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 167194.79
+[01.12.2016 14:20:55,474] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((N_effort_numeric - PDR_UFP_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)
+[01.12.2016 14:20:55,474] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:20:55,534] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 164448.79
+[01.12.2016 14:20:55,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((N_effort_numeric - Deleted_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)
+[01.12.2016 14:20:55,535] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:20:55,741] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 163749.0
+[01.12.2016 14:20:55,742] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((N_effort_numeric - PDR_UFP_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - NPDR_AFP_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - NPDR_AFP_numeric
+[01.12.2016 14:20:55,742] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:20:55,889] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 163182.39
+[01.12.2016 14:20:55,890] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((N_effort_numeric - NPDR_AFP_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - NPDR_AFP_numeric) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - (NPDR_AFP_numeric + NPDR_AFP_numeric)) - NPDR_AFP_numeric
+[01.12.2016 14:20:55,890] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:20:56,153] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 41737.40
+[01.12.2016 14:20:56,153] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (7.0 + AFP_numeric) * (Dev.Type_numeric + PDR_AFP_numeric)
+[01.12.2016 14:20:56,153] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:20:56,291] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 101.6 MB
+[01.12.2016 14:20:56,361] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 17836.89
+[01.12.2016 14:20:56,361] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric * PDR_AFP_numeric) - (4.0 / Resource_numeric)) - (N_effort_numeric / (AFP_numeric - PDR_UFP_numeric))
+[01.12.2016 14:20:56,361] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:20:56,507] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 11735.29
+[01.12.2016 14:20:56,507] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric * PDR_AFP_numeric) - (4.0 / Resource_numeric)) - NPDR_AFP_numeric
+[01.12.2016 14:20:56,507] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:20:56,587] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:20:56,587] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:20:56,588] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:20:57,331] [main] INFO  CostEstimationMain  - Evaulation of dataset: china.arff
+[01.12.2016 14:20:57,331] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:20:57,331] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:20:57,332] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:21:19,053] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:21:19,131] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:21:19,167] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:21:19,169] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:21:19,185] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:21:19,234] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:21:19,235] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:21:19,447] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 43632.40
+[01.12.2016 14:21:19,448] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) - (File_numeric - Duration_numeric)
+[01.12.2016 14:21:19,448] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:21:19,569] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 9969.69
+[01.12.2016 14:21:19,570] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) - PDR_UFP_numeric
+[01.12.2016 14:21:19,570] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:21:19,681] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:21:19,682] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:21:19,682] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:21:19,790] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5836.96
+[01.12.2016 14:21:19,791] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((PDR_AFP_numeric * AFP_numeric) - (PDR_AFP_numeric * Dev.Type_numeric)) + ((Enquiry_numeric / PDR_AFP_numeric) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:21:19,791] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:21:19,902] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5835.23
+[01.12.2016 14:21:19,902] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((PDR_AFP_numeric * AFP_numeric) - (PDR_AFP_numeric * Dev.Type_numeric)) + (AFP_numeric / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:21:19,902] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:21:19,973] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5824.88
+[01.12.2016 14:21:19,974] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric / NPDR_AFP_numeric) + (AFP_numeric * Dev.Type_numeric)) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:21:19,974] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:21:20,912] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 101.6 MB
+[01.12.2016 14:21:21,179] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5820.28
+[01.12.2016 14:21:21,179] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (Added_numeric / AFP_numeric)
+[01.12.2016 14:21:21,179] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:21:21,381] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5799.78
+[01.12.2016 14:21:21,381] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (((Duration_numeric * File_numeric) + ((Duration_numeric / NPDR_AFP_numeric) / (AFP_numeric * PDR_AFP_numeric))) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:21:21,381] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:21:21,865] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5788.02
+[01.12.2016 14:21:21,865] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / ((Duration_numeric / NPDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / (Duration_numeric / NPDR_AFP_numeric))))
+[01.12.2016 14:21:21,865] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:21:21,938] [main] INFO  CostEstimationMain  - Evaulation of dataset: china.arff
+[01.12.2016 14:21:21,938] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5788.02
+[01.12.2016 14:21:21,938] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / ((Duration_numeric / NPDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / (Duration_numeric / NPDR_AFP_numeric))))
+[01.12.2016 14:21:21,938] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:21:39,765] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:21:39,847] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:21:39,886] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:21:39,889] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:21:39,904] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:21:39,961] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:21:39,962] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:21:40,164] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:21:40,165] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:21:40,165] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:21:41,465] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 107.2 MB
+[01.12.2016 14:21:41,721] [main] INFO  CostEstimationMain  - Evaulation of dataset: china.arff
+[01.12.2016 14:21:41,722] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:21:41,722] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:21:41,722] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:30:33,971] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:30:34,062] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:30:34,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:30:34,101] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:30:34,115] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:30:34,161] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:30:34,162] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:30:34,405] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 177217.30
+[01.12.2016 14:30:34,406] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (N_effort_numeric - NPDU_UFP_numeric) * (N_effort_numeric / N_effort_numeric)
+[01.12.2016 14:30:34,406] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:30:35,081] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 175238.60
+[01.12.2016 14:30:35,081] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (N_effort_numeric - NPDU_UFP_numeric) - NPDU_UFP_numeric
+[01.12.2016 14:30:35,081] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:30:35,232] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 173259.90
+[01.12.2016 14:30:35,233] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((N_effort_numeric - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) * (Exp(Dev.Type_numeric))
+[01.12.2016 14:30:35,233] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:30:35,391] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 171297.99
+[01.12.2016 14:30:35,392] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((N_effort_numeric - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric
+[01.12.2016 14:30:35,392] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:30:35,473] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 169356.50
+[01.12.2016 14:30:35,473] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((N_effort_numeric - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric
+[01.12.2016 14:30:35,473] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:30:35,553] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 167517.06
+[01.12.2016 14:30:35,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (N_effort_numeric - NPDU_UFP_numeric) * ((((((N_effort_numeric - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) / N_effort_numeric)
+[01.12.2016 14:30:35,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:30:35,634] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 165511.1
+[01.12.2016 14:30:35,635] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((((N_effort_numeric - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric
+[01.12.2016 14:30:35,635] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:30:35,736] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 163643.6
+[01.12.2016 14:30:35,737] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((((N_effort_numeric - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric
+[01.12.2016 14:30:35,737] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[01.12.2016 14:30:35,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 162085.10
+[01.12.2016 14:30:35,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((((((N_effort_numeric - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric) - NPDU_UFP_numeric
+[01.12.2016 14:30:35,823] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 9
+[01.12.2016 14:30:36,360] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 104.8 MB
+[01.12.2016 14:30:39,002] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 50, memory free: 84.1 MB
+[01.12.2016 14:30:39,111] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 7299.59
+[01.12.2016 14:30:39,112] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (Duration_numeric + 1.0)
+[01.12.2016 14:30:39,112] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:30:39,445] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:30:39,445] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:30:39,445] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:30:40,677] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:30:40,677] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Exp((log (AFP_numeric * PDR_AFP_numeric)))
+[01.12.2016 14:30:40,678] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:30:41,200] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 75, memory free: 83.5 MB
+[01.12.2016 14:30:41,490] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5803.01
+[01.12.2016 14:30:41,490] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / 8.0) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:41,490] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:30:41,571] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5803.01
+[01.12.2016 14:30:41,571] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / 8.0) + (Exp((log (AFP_numeric * PDR_AFP_numeric))))
+[01.12.2016 14:30:41,571] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:30:42,979] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5803.01
+[01.12.2016 14:30:42,980] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Exp((log ((Duration_numeric / 8.0) + (Exp((log (AFP_numeric * PDR_AFP_numeric)))))))
+[01.12.2016 14:30:42,980] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:30:43,270] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5800.62
+[01.12.2016 14:30:43,270] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Exp((log ((Duration_numeric / 7.0) + (Exp((log (AFP_numeric * PDR_AFP_numeric)))))))
+[01.12.2016 14:30:43,270] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:30:43,270] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 100, memory free: 81.9 MB
+[01.12.2016 14:30:45,507] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 125, memory free: 79.5 MB
+[01.12.2016 14:30:47,515] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 150, memory free: 76.8 MB
+[01.12.2016 14:30:48,154] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5789.67
+[01.12.2016 14:30:48,154] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (PDR_AFP_numeric + Resource_numeric)) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:48,154] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:30:48,559] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5786.91
+[01.12.2016 14:30:48,559] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log ((((log ((AFP_numeric * PDR_AFP_numeric) * PDR_AFP_numeric)) * PDR_AFP_numeric) + Resource_numeric) + Resource_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:48,559] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 9
+[01.12.2016 14:30:49,020] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5785.51
+[01.12.2016 14:30:49,020] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log (((log (AFP_numeric * ((AFP_numeric * PDR_AFP_numeric) + Resource_numeric))) * PDR_AFP_numeric) + Resource_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:49,020] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 9
+[01.12.2016 14:30:49,227] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5776.21
+[01.12.2016 14:30:49,227] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log ((((Changed_numeric + NPDU_UFP_numeric) * PDR_AFP_numeric) + Resource_numeric) + Resource_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:49,227] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:30:49,747] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5730.89
+[01.12.2016 14:30:49,747] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log (((PDR_AFP_numeric + Resource_numeric) * PDR_AFP_numeric) * PDR_AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:49,747] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:30:49,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 175, memory free: 74.7 MB
+[01.12.2016 14:30:51,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5718.42
+[01.12.2016 14:30:51,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log (((((Changed_numeric + NPDU_UFP_numeric) * PDR_AFP_numeric) + Resource_numeric) * PDR_AFP_numeric) * PDR_AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:51,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[01.12.2016 14:30:52,343] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 200, memory free: 87.1 MB
+[01.12.2016 14:30:52,880] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5694.04
+[01.12.2016 14:30:52,880] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log ((((Changed_numeric + NPDU_UFP_numeric) + Resource_numeric) * PDR_AFP_numeric) * PDR_AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:52,880] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:30:54,607] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5693.61
+[01.12.2016 14:30:54,607] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log ((((Changed_numeric + (Changed_numeric + NPDU_UFP_numeric)) + Resource_numeric) * PDR_AFP_numeric) * PDR_AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:54,607] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[01.12.2016 14:30:54,894] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 225, memory free: 77.4 MB
+[01.12.2016 14:30:57,319] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 250, memory free: 67.2 MB
+[01.12.2016 14:30:59,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 275, memory free: 80.2 MB
+[01.12.2016 14:30:59,933] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5688.01
+[01.12.2016 14:30:59,934] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log ((((Changed_numeric + (Changed_numeric + NPDU_UFP_numeric)) + Resource_numeric) * PDR_AFP_numeric) * NPDR_AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:30:59,934] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[01.12.2016 14:31:02,301] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 300, memory free: 70.6 MB
+[01.12.2016 14:31:04,759] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 325, memory free: 59.0 MB
+[01.12.2016 14:31:07,239] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 350, memory free: 71.5 MB
+[01.12.2016 14:31:09,850] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 375, memory free: 59.4 MB
+[01.12.2016 14:31:12,546] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 400, memory free: 70.9 MB
+[01.12.2016 14:31:15,173] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5687.18
+[01.12.2016 14:31:15,174] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log ((((Changed_numeric + NPDU_UFP_numeric) + Resource_numeric) * NPDR_AFP_numeric) * NPDR_AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:15,174] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:31:15,174] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 425, memory free: 61.7 MB
+[01.12.2016 14:31:16,476] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5686.71
+[01.12.2016 14:31:16,476] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / (log ((((Changed_numeric + (Changed_numeric + NPDU_UFP_numeric)) + Resource_numeric) * NPDR_AFP_numeric) * NPDR_AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:16,476] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[01.12.2016 14:31:17,631] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 450, memory free: 52.1 MB
+[01.12.2016 14:31:20,062] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 475, memory free: 65.9 MB
+[01.12.2016 14:31:22,580] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 500, memory free: 56.3 MB
+[01.12.2016 14:31:25,044] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 525, memory free: 47.1 MB
+[01.12.2016 14:31:27,529] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 550, memory free: 61.3 MB
+[01.12.2016 14:31:30,025] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 575, memory free: 51.3 MB
+[01.12.2016 14:31:32,518] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 600, memory free: 40.7 MB
+[01.12.2016 14:31:35,091] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 625, memory free: 54.4 MB
+[01.12.2016 14:31:37,191] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5670.61
+[01.12.2016 14:31:37,192] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 7.0) / (log ((((AFP_numeric * PDR_AFP_numeric) + NPDR_AFP_numeric) * NPDR_AFP_numeric) * AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:37,192] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:31:37,705] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 650, memory free: 43.4 MB
+[01.12.2016 14:31:38,222] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5663.98
+[01.12.2016 14:31:38,222] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 7.0) / (log ((((Changed_numeric + NPDU_UFP_numeric) + Resource_numeric) * NPDR_AFP_numeric) * AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:38,222] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:31:38,648] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5642.97
+[01.12.2016 14:31:38,648] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 7.0) / (log (((Changed_numeric + NPDR_AFP_numeric) * (AFP_numeric * PDR_AFP_numeric)) * AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:38,648] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:31:40,248] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 675, memory free: 32.8 MB
+[01.12.2016 14:31:41,137] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5628.83
+[01.12.2016 14:31:41,137] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 7.0) / (log (((Changed_numeric + NPDR_AFP_numeric) * (Changed_numeric + NPDU_UFP_numeric)) * AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:41,137] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:31:42,752] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 700, memory free: 45.6 MB
+[01.12.2016 14:31:45,078] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5627.83
+[01.12.2016 14:31:45,078] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 7.0) / (log (((Changed_numeric + NPDR_AFP_numeric) * (Changed_numeric + PDR_AFP_numeric)) * AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:45,078] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:31:45,282] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 725, memory free: 34.8 MB
+[01.12.2016 14:31:45,387] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5577.32
+[01.12.2016 14:31:45,387] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 7.0) / (log (((Enquiry_numeric + NPDR_AFP_numeric) * (Changed_numeric + NPDU_UFP_numeric)) * AFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:45,387] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:31:46,809] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5527.30
+[01.12.2016 14:31:46,809] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 5.0) / ((Enquiry_numeric + NPDR_AFP_numeric) * (Changed_numeric + NPDU_UFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:46,809] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:31:47,702] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 750, memory free: 24.4 MB
+[01.12.2016 14:31:50,259] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 775, memory free: 38.2 MB
+[01.12.2016 14:31:52,839] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 800, memory free: 28.7 MB
+[01.12.2016 14:31:55,520] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 825, memory free: 18.9 MB
+[01.12.2016 14:31:58,182] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 850, memory free: 32.1 MB
+[01.12.2016 14:31:59,153] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5526.32
+[01.12.2016 14:31:59,154] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 5.0) / ((Enquiry_numeric + (Changed_numeric + PDR_AFP_numeric)) * (Changed_numeric + NPDU_UFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:31:59,154] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:32:00,887] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 875, memory free: 22.2 MB
+[01.12.2016 14:32:03,575] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 900, memory free: 12.3 MB
+[01.12.2016 14:32:06,231] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 925, memory free: 25.1 MB
+[01.12.2016 14:32:08,934] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 950, memory free: 15.9 MB
+[01.12.2016 14:32:11,615] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 975, memory free: 6.4 MB
+[01.12.2016 14:32:14,330] [main] INFO  CostEstimationMain  - Evaulation of dataset: china.arff
+[01.12.2016 14:32:14,331] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5526.32
+[01.12.2016 14:32:14,331] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AFP_numeric / 5.0) / ((Enquiry_numeric + (Changed_numeric + PDR_AFP_numeric)) * (Changed_numeric + NPDU_UFP_numeric))) + (AFP_numeric * PDR_AFP_numeric)
+[01.12.2016 14:32:14,331] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:08,362] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:37:08,441] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:37:08,474] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:37:08,477] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:37:08,492] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:37:08,539] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:37:08,540] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:37:08,744] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 177376.80
+[01.12.2016 14:37:08,745] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric - NPDR_AFP_numeric
+[01.12.2016 14:37:08,745] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:37:08,806] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 177217.30
+[01.12.2016 14:37:08,807] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric - NPDU_UFP_numeric
+[01.12.2016 14:37:08,807] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:37:08,869] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 42177.90
+[01.12.2016 14:37:08,869] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Added_numeric + Changed_numeric) * PDR_UFP_numeric
+[01.12.2016 14:37:08,869] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:37:10,293] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 102.8 MB
+[01.12.2016 14:37:10,950] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:37:10,951] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:37:10,951] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:37:11,677] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5834.52
+[01.12.2016 14:37:11,678] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (Interface_numeric / AFP_numeric)
+[01.12.2016 14:37:11,678] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:37:11,743] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5834.25
+[01.12.2016 14:37:11,743] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (Interface_numeric / (Added_numeric + Changed_numeric))
+[01.12.2016 14:37:11,744] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:37:12,235] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 50, memory free: 92.3 MB
+[01.12.2016 14:37:12,292] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5830.66
+[01.12.2016 14:37:12,292] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / ((AFP_numeric * PDR_AFP_numeric) - NPDR_AFP_numeric))
+[01.12.2016 14:37:12,292] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:37:12,346] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5829.69
+[01.12.2016 14:37:12,347] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:37:12,347] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:37:12,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5828.98
+[01.12.2016 14:37:12,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (((AFP_numeric * PDR_AFP_numeric) - NPDR_AFP_numeric) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:37:12,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:37:12,871] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5826.34
+[01.12.2016 14:37:12,872] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (((AFP_numeric - 5.0) * PDR_AFP_numeric) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:37:12,872] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:37:13,334] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5819.90
+[01.12.2016 14:37:13,334] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + (((PDR_AFP_numeric * Added_numeric) - (Enquiry_numeric - PDR_UFP_numeric)) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:37:13,334] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:37:13,826] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 75, memory free: 92.7 MB
+[01.12.2016 14:37:13,965] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5819.77
+[01.12.2016 14:37:13,966] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Interface_numeric + ((PDR_AFP_numeric * Added_numeric) + (Interface_numeric / AFP_numeric))) / (AFP_numeric * PDR_AFP_numeric))
+[01.12.2016 14:37:13,966] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:14,550] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5818.86
+[01.12.2016 14:37:14,550] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Interface_numeric + ((PDR_AFP_numeric * Added_numeric) + (File_numeric / Duration_numeric))) / ((NPDU_UFP_numeric + AFP_numeric) * PDR_AFP_numeric))
+[01.12.2016 14:37:14,550] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:14,975] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5818.19
+[01.12.2016 14:37:14,975] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((PDR_AFP_numeric * Added_numeric) / ((AFP_numeric * PDR_AFP_numeric) + (PDR_AFP_numeric * PDR_AFP_numeric)))
+[01.12.2016 14:37:14,975] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:37:15,120] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5810.69
+[01.12.2016 14:37:15,120] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((PDR_AFP_numeric * Added_numeric) / ((AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / Interface_numeric)))
+[01.12.2016 14:37:15,121] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:15,264] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5808.85
+[01.12.2016 14:37:15,265] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / ((AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / Interface_numeric)))
+[01.12.2016 14:37:15,265] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:15,340] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5789.60
+[01.12.2016 14:37:15,341] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Input_numeric) / ((AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / (AFP_numeric * PDR_AFP_numeric))))
+[01.12.2016 14:37:15,341] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:15,558] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5789.48
+[01.12.2016 14:37:15,559] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Input_numeric) / ((NPDU_UFP_numeric + AFP_numeric) * PDR_AFP_numeric))
+[01.12.2016 14:37:15,559] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:37:15,630] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 100, memory free: 82.1 MB
+[01.12.2016 14:37:15,702] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5786.51
+[01.12.2016 14:37:15,702] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Input_numeric) / ((AFP_numeric * PDR_AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / Added_numeric)))
+[01.12.2016 14:37:15,702] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:15,787] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5772.44
+[01.12.2016 14:37:15,787] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((PDR_AFP_numeric * Added_numeric) / ((((Deleted_numeric + PDR_AFP_numeric) * PDR_AFP_numeric) * PDR_AFP_numeric) + AFP_numeric))
+[01.12.2016 14:37:15,788] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:37:15,950] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5759.51
+[01.12.2016 14:37:15,950] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Added_numeric) / ((AFP_numeric * PDR_AFP_numeric) + AFP_numeric))
+[01.12.2016 14:37:15,950] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:37:16,461] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5749.87
+[01.12.2016 14:37:16,462] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Input_numeric) / (((Duration_numeric * PDR_AFP_numeric) + AFP_numeric) + PDR_AFP_numeric))
+[01.12.2016 14:37:16,462] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:16,681] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5737.54
+[01.12.2016 14:37:16,682] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Input_numeric) / (((Duration_numeric * PDR_AFP_numeric) + AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / Added_numeric)))
+[01.12.2016 14:37:16,682] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:17,117] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5733.33
+[01.12.2016 14:37:17,117] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Input_numeric) / (((PDR_AFP_numeric * PDR_AFP_numeric) + AFP_numeric) + ((AFP_numeric * PDR_AFP_numeric) / Added_numeric)))
+[01.12.2016 14:37:17,117] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:17,191] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5715.95
+[01.12.2016 14:37:17,191] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Added_numeric) / (((((Deleted_numeric + PDR_AFP_numeric) * PDR_AFP_numeric) * PDR_AFP_numeric) + AFP_numeric) + AFP_numeric))
+[01.12.2016 14:37:17,191] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:37:17,525] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 125, memory free: 93.0 MB
+[01.12.2016 14:37:19,547] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 150, memory free: 80.2 MB
+[01.12.2016 14:37:19,819] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5713.01
+[01.12.2016 14:37:19,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AFP_numeric * PDR_AFP_numeric) + ((Duration_numeric * Input_numeric) / ((((Deleted_numeric + PDR_AFP_numeric) * PDR_AFP_numeric) + (PDR_AFP_numeric * Changed_numeric)) + AFP_numeric))
+[01.12.2016 14:37:19,820] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:37:20,453] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2794.11
+[01.12.2016 14:37:20,454] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * (((Duration_numeric * Added_numeric) / ((AFP_numeric * PDR_AFP_numeric) + (N_effort_numeric / Added_numeric))) + N_effort_numeric)
+[01.12.2016 14:37:20,454] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:20,719] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2324.00
+[01.12.2016 14:37:20,720] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * (((Deleted_numeric * NPDU_UFP_numeric) / ((AFP_numeric * PDR_AFP_numeric) + (N_effort_numeric / Added_numeric))) + N_effort_numeric)
+[01.12.2016 14:37:20,720] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:20,798] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2323.95
+[01.12.2016 14:37:20,799] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * (((Deleted_numeric * NPDU_UFP_numeric) / (AFP_numeric * PDR_AFP_numeric)) + N_effort_numeric)
+[01.12.2016 14:37:20,799] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:37:21,023] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2320.80
+[01.12.2016 14:37:21,024] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * ((PDR_AFP_numeric / ((AFP_numeric * PDR_AFP_numeric) + (N_effort_numeric / Added_numeric))) + N_effort_numeric)
+[01.12.2016 14:37:21,024] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:21,098] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2319.59
+[01.12.2016 14:37:21,098] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * ((((Duration_numeric * Duration_numeric) / (AFP_numeric * PDR_AFP_numeric)) / (AFP_numeric * PDR_AFP_numeric)) + N_effort_numeric)
+[01.12.2016 14:37:21,098] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:21,393] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2319.57
+[01.12.2016 14:37:21,393] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * (((6.0 / (AFP_numeric * PDR_AFP_numeric)) / (AFP_numeric * PDR_AFP_numeric)) + N_effort_numeric)
+[01.12.2016 14:37:21,394] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:21,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2319.55
+[01.12.2016 14:37:21,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * ((((Duration_numeric * Duration_numeric) / (AFP_numeric * PDR_AFP_numeric)) / ((AFP_numeric * PDR_AFP_numeric) * PDR_AFP_numeric)) + N_effort_numeric)
+[01.12.2016 14:37:21,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:21,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 175, memory free: 79.8 MB
+[01.12.2016 14:37:21,764] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2318.66
+[01.12.2016 14:37:21,765] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * (((6.0 / (AFP_numeric * PDR_AFP_numeric)) / (NPDR_AFP_numeric * PDR_AFP_numeric)) + N_effort_numeric)
+[01.12.2016 14:37:21,765] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:22,125] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2316.56
+[01.12.2016 14:37:22,125] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * ((((Duration_numeric * Duration_numeric) / PDR_AFP_numeric) / ((AFP_numeric * PDR_AFP_numeric) * PDR_AFP_numeric)) + N_effort_numeric)
+[01.12.2016 14:37:22,125] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:23,287] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2311.90
+[01.12.2016 14:37:23,287] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * (((6.0 / ((Output_numeric * PDR_UFP_numeric) + (PDR_UFP_numeric + PDR_AFP_numeric))) / (NPDR_AFP_numeric * PDR_AFP_numeric)) + N_effort_numeric)
+[01.12.2016 14:37:23,287] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:37:23,442] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 200, memory free: 82.5 MB
+[01.12.2016 14:37:25,328] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 225, memory free: 64.9 MB
+[01.12.2016 14:37:26,997] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2310.87
+[01.12.2016 14:37:26,998] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * (((5.0 / ((Output_numeric * PDR_UFP_numeric) + (PDR_UFP_numeric + PDR_AFP_numeric))) / (PDR_UFP_numeric * PDR_AFP_numeric)) + N_effort_numeric)
+[01.12.2016 14:37:26,998] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:37:27,227] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 250, memory free: 69.2 MB
+[01.12.2016 14:37:29,144] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 275, memory free: 73.0 MB
+[01.12.2016 14:37:29,295] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 2310.37
+[01.12.2016 14:37:29,295] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (PDR_AFP_numeric / NPDR_AFP_numeric) * ((((4.0 / PDR_AFP_numeric) / PDR_AFP_numeric) / ((Output_numeric * PDR_UFP_numeric) + (PDR_UFP_numeric * PDR_AFP_numeric))) + N_effort_numeric)
+[01.12.2016 14:37:29,295] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:37:31,066] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 300, memory free: 54.7 MB
+[01.12.2016 14:37:33,069] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 325, memory free: 57.3 MB
+[01.12.2016 14:37:35,066] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 350, memory free: 63.0 MB
+[01.12.2016 14:37:37,272] [main] INFO  FileObject  - Reading File china.arff
+[01.12.2016 14:37:37,350] [main] INFO  CostEstimationFitness  - Inputs size: 17; variables: 17; dataLen: 499; outputs size: 499
+[01.12.2016 14:37:37,386] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:37:37,388] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:37:37,401] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:37:37,456] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:37:37,457] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.5 MB
+[01.12.2016 14:37:37,670] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 178125.70
+[01.12.2016 14:37:37,670] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: N_effort_numeric - PDR_AFP_numeric
+[01.12.2016 14:37:37,670] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:37:37,889] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:37:37,889] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:37:37,889] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:37:39,035] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 106.6 MB
+[01.12.2016 14:37:39,299] [main] INFO  CostEstimationMain  - Evaulation of dataset: china.arff
+[01.12.2016 14:37:39,299] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 5838.89
+[01.12.2016 14:37:39,301] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AFP_numeric * PDR_AFP_numeric
+[01.12.2016 14:37:39,302] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:41:21,178] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:21,190] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:21,212] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:21,215] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:21,224] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:21,262] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:21,263] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:21,339] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1423.62
+[01.12.2016 14:41:21,340] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric) + ((0.0 - Duration_numeric) + Hardware_numeric)
+[01.12.2016 14:41:21,340] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:21,374] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1380.97
+[01.12.2016 14:41:21,374] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric
+[01.12.2016 14:41:21,374] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:21,411] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1379.97
+[01.12.2016 14:41:21,411] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric) + Hardware_numeric
+[01.12.2016 14:41:21,411] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:21,447] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1369.69
+[01.12.2016 14:41:21,448] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric) + (RAWFP_numeric / KSLOC_numeric)
+[01.12.2016 14:41:21,448] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:21,462] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1369.66
+[01.12.2016 14:41:21,462] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric) + ((RAWFP_numeric / KSLOC_numeric) + (Duration_numeric / KSLOC_numeric))
+[01.12.2016 14:41:21,462] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:21,504] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1368.73
+[01.12.2016 14:41:21,505] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((RAWFP_numeric / KSLOC_numeric) + ((KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric)) * AdjFP_numeric) / RAWFP_numeric
+[01.12.2016 14:41:21,505] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:41:21,518] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1368.29
+[01.12.2016 14:41:21,519] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric) + (3.0 * Hardware_numeric)) * AdjFP_numeric) / RAWFP_numeric) + 3.0
+[01.12.2016 14:41:21,519] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:41:21,568] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1364.00
+[01.12.2016 14:41:21,569] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((RAWFP_numeric / KSLOC_numeric) + (((KSLOC_numeric - Language_numeric) * AdjFP_numeric) / RAWFP_numeric)) * AdjFP_numeric) / RAWFP_numeric
+[01.12.2016 14:41:21,569] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:41:21,585] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1356.47
+[01.12.2016 14:41:21,585] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AdjFP_numeric / Language_numeric) / KSLOC_numeric) + ((KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric)
+[01.12.2016 14:41:21,586] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:21,599] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1355.78
+[01.12.2016 14:41:21,600] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((((AdjFP_numeric / Language_numeric) / KSLOC_numeric) + ((KSLOC_numeric * AdjFP_numeric) / RAWFP_numeric)) * AdjFP_numeric) / RAWFP_numeric
+[01.12.2016 14:41:21,600] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:41:21,641] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1337.26
+[01.12.2016 14:41:21,641] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric - Hardware_numeric) / (5.0 * Language_numeric)
+[01.12.2016 14:41:21,641] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:21,738] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.4 MB
+[01.12.2016 14:41:21,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1334.61
+[01.12.2016 14:41:21,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric - ((Duration_numeric + KSLOC_numeric) / RAWFP_numeric)) / (5.0 * Language_numeric)
+[01.12.2016 14:41:21,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:21,814] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1334.52
+[01.12.2016 14:41:21,814] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric / (5.0 * Language_numeric)
+[01.12.2016 14:41:21,815] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:21,815] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:21,815] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1334.52
+[01.12.2016 14:41:21,815] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric / (5.0 * Language_numeric)
+[01.12.2016 14:41:21,815] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:44,415] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:44,427] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:44,448] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:44,450] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:44,460] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:44,501] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:44,502] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:44,580] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1334.52
+[01.12.2016 14:41:44,581] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric / (Language_numeric * 5.0)
+[01.12.2016 14:41:44,581] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:44,687] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1326.80
+[01.12.2016 14:41:44,688] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric / RAWFP_numeric) * (KSLOC_numeric - 6.0)) + (AdjFP_numeric / (Language_numeric * 5.0))
+[01.12.2016 14:41:44,688] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:44,704] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1319.87
+[01.12.2016 14:41:44,705] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric + Duration_numeric) / (Language_numeric * 5.0)) + ((KSLOC_numeric + AdjFP_numeric) / 7.0)
+[01.12.2016 14:41:44,706] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:44,790] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1313.79
+[01.12.2016 14:41:44,790] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric + Duration_numeric) / ((5.0 - KSLOC_numeric) + (KSLOC_numeric + Language_numeric))) + ((KSLOC_numeric + AdjFP_numeric) / 7.0)
+[01.12.2016 14:41:44,790] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:44,955] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.6 MB
+[01.12.2016 14:41:45,031] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1307.33
+[01.12.2016 14:41:45,031] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric + Duration_numeric) / (RAWFP_numeric / ((KSLOC_numeric + AdjFP_numeric) / 7.0))) + ((KSLOC_numeric + AdjFP_numeric) / 7.0)
+[01.12.2016 14:41:45,031] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:41:45,032] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:45,032] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1307.33
+[01.12.2016 14:41:45,032] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric + Duration_numeric) / (RAWFP_numeric / ((KSLOC_numeric + AdjFP_numeric) / 7.0))) + ((KSLOC_numeric + AdjFP_numeric) / 7.0)
+[01.12.2016 14:41:45,033] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:41:46,940] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:46,950] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:46,970] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:46,973] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:46,982] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:47,019] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:47,020] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:47,092] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1463.20
+[01.12.2016 14:41:47,093] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric / 5.0
+[01.12.2016 14:41:47,094] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:41:47,128] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1458.58
+[01.12.2016 14:41:47,129] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((RAWFP_numeric + Duration_numeric) / (AdjFP_numeric * 6.0)) * ((6.0 + RAWFP_numeric) + (AdjFP_numeric / KSLOC_numeric))
+[01.12.2016 14:41:47,130] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:47,149] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1445.76
+[01.12.2016 14:41:47,150] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((RAWFP_numeric + Duration_numeric) / (AdjFP_numeric * 6.0)) * ((6.0 + RAWFP_numeric) + (Hardware_numeric + (Duration_numeric + Language_numeric)))
+[01.12.2016 14:41:47,150] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:47,200] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1427.08
+[01.12.2016 14:41:47,204] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((RAWFP_numeric + Duration_numeric) / (AdjFP_numeric * 6.0)) * ((6.0 + RAWFP_numeric) + (Hardware_numeric + ((7.0 * 7.0) + Language_numeric)))
+[01.12.2016 14:41:47,205] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:41:47,346] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1368.60
+[01.12.2016 14:41:47,346] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((AdjFP_numeric / 3.0) + Duration_numeric) + KSLOC_numeric) / 3.0
+[01.12.2016 14:41:47,347] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:47,482] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.4 MB
+[01.12.2016 14:41:47,514] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1366.73
+[01.12.2016 14:41:47,514] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((Hardware_numeric - ((Duration_numeric + KSLOC_numeric) / Hardware_numeric)) / Hardware_numeric) + AdjFP_numeric) / 5.0
+[01.12.2016 14:41:47,514] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:41:47,541] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1365.68
+[01.12.2016 14:41:47,542] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((Hardware_numeric - ((KSLOC_numeric + (AdjFP_numeric / (Duration_numeric + KSLOC_numeric))) / Hardware_numeric)) / Hardware_numeric) + AdjFP_numeric) / 5.0
+[01.12.2016 14:41:47,542] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[01.12.2016 14:41:47,553] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1365.21
+[01.12.2016 14:41:47,553] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((Hardware_numeric - ((KSLOC_numeric + (AdjFP_numeric / KSLOC_numeric)) / Hardware_numeric)) / Hardware_numeric) + AdjFP_numeric) / 5.0
+[01.12.2016 14:41:47,553] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:41:47,553] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:47,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1365.21
+[01.12.2016 14:41:47,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((Hardware_numeric - ((KSLOC_numeric + (AdjFP_numeric / KSLOC_numeric)) / Hardware_numeric)) / Hardware_numeric) + AdjFP_numeric) / 5.0
+[01.12.2016 14:41:47,554] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:41:49,073] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:49,083] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:49,103] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:49,106] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:49,115] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:49,155] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:49,156] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:49,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1383.12
+[01.12.2016 14:41:49,231] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Hardware_numeric + AdjFP_numeric) / (RAWFP_numeric / KSLOC_numeric)
+[01.12.2016 14:41:49,231] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:49,286] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1380.97
+[01.12.2016 14:41:49,286] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: KSLOC_numeric / (RAWFP_numeric / AdjFP_numeric)
+[01.12.2016 14:41:49,287] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:49,363] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1341.01
+[01.12.2016 14:41:49,364] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((RAWFP_numeric * Hardware_numeric) + (Hardware_numeric + KSLOC_numeric)) / ((Hardware_numeric + 8.0) - (Hardware_numeric / AdjFP_numeric))
+[01.12.2016 14:41:49,364] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:49,610] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.4 MB
+[01.12.2016 14:41:49,626] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1339.31
+[01.12.2016 14:41:49,627] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((RAWFP_numeric * Hardware_numeric) + KSLOC_numeric) / ((Hardware_numeric + 8.0) - (Hardware_numeric / AdjFP_numeric))
+[01.12.2016 14:41:49,627] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:49,682] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:49,683] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1339.31
+[01.12.2016 14:41:49,683] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((RAWFP_numeric * Hardware_numeric) + KSLOC_numeric) / ((Hardware_numeric + 8.0) - (Hardware_numeric / AdjFP_numeric))
+[01.12.2016 14:41:49,683] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:50,822] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:50,833] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:50,853] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:50,855] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:50,865] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:50,910] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:50,911] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:50,985] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1475.70
+[01.12.2016 14:41:50,985] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + KSLOC_numeric) - Language_numeric
+[01.12.2016 14:41:50,986] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:51,013] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1465.99
+[01.12.2016 14:41:51,013] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + KSLOC_numeric) - (KSLOC_numeric / 7.0)
+[01.12.2016 14:41:51,013] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:51,029] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1380.97
+[01.12.2016 14:41:51,029] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (KSLOC_numeric / RAWFP_numeric) * AdjFP_numeric
+[01.12.2016 14:41:51,030] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:51,092] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1378.97
+[01.12.2016 14:41:51,093] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Language_numeric + ((KSLOC_numeric / RAWFP_numeric) * AdjFP_numeric)
+[01.12.2016 14:41:51,093] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:51,118] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1352.12
+[01.12.2016 14:41:51,118] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + Hardware_numeric) + (Duration_numeric + KSLOC_numeric)) - ((3.0 + KSLOC_numeric) * ((Hardware_numeric + KSLOC_numeric) / RAWFP_numeric))
+[01.12.2016 14:41:51,118] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:51,206] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1326.07
+[01.12.2016 14:41:51,206] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + ((((Duration_numeric + KSLOC_numeric) - Hardware_numeric) / RAWFP_numeric) * AdjFP_numeric)) - (KSLOC_numeric / 5.0)
+[01.12.2016 14:41:51,207] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:41:51,229] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1322.82
+[01.12.2016 14:41:51,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + (((Duration_numeric + KSLOC_numeric) / RAWFP_numeric) * AdjFP_numeric)) - (KSLOC_numeric / 5.0)
+[01.12.2016 14:41:51,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:41:51,252] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1320.57
+[01.12.2016 14:41:51,252] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + ((Duration_numeric + KSLOC_numeric) - ((Duration_numeric + KSLOC_numeric) / 5.0))) / RAWFP_numeric) * AdjFP_numeric
+[01.12.2016 14:41:51,253] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:41:51,264] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1320.48
+[01.12.2016 14:41:51,264] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Duration_numeric + (((((Duration_numeric + KSLOC_numeric) - Language_numeric) / RAWFP_numeric) * AdjFP_numeric) - (KSLOC_numeric / 5.0))
+[01.12.2016 14:41:51,264] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:41:51,316] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1309.19
+[01.12.2016 14:41:51,316] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + ((((Duration_numeric + ((Duration_numeric + KSLOC_numeric) - Language_numeric)) - Hardware_numeric) / RAWFP_numeric) * AdjFP_numeric)) - (KSLOC_numeric / 5.0)
+[01.12.2016 14:41:51,316] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 8
+[01.12.2016 14:41:51,354] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1305.94
+[01.12.2016 14:41:51,355] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + ((((Duration_numeric + (Duration_numeric + KSLOC_numeric)) - Language_numeric) / RAWFP_numeric) * AdjFP_numeric)) - (KSLOC_numeric / 5.0)
+[01.12.2016 14:41:51,355] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:41:51,355] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.1 MB
+[01.12.2016 14:41:51,424] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:51,424] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1305.94
+[01.12.2016 14:41:51,424] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + ((((Duration_numeric + (Duration_numeric + KSLOC_numeric)) - Language_numeric) / RAWFP_numeric) * AdjFP_numeric)) - (KSLOC_numeric / 5.0)
+[01.12.2016 14:41:51,424] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:41:53,007] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:53,019] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:53,041] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:53,043] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:53,052] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:53,096] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:53,097] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:53,166] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1456.11
+[01.12.2016 14:41:53,166] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (RAWFP_numeric / 5.0) + (Hardware_numeric + Language_numeric)
+[01.12.2016 14:41:53,167] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:53,303] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1450.11
+[01.12.2016 14:41:53,304] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (RAWFP_numeric / 5.0) + Hardware_numeric
+[01.12.2016 14:41:53,304] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:53,358] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1428.30
+[01.12.2016 14:41:53,359] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((RAWFP_numeric / 6.0) + Duration_numeric) + Language_numeric
+[01.12.2016 14:41:53,359] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:53,376] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1427.24
+[01.12.2016 14:41:53,376] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((RAWFP_numeric / 6.0) + Duration_numeric) + 3.0
+[01.12.2016 14:41:53,377] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:53,439] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1380.97
+[01.12.2016 14:41:53,439] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: KSLOC_numeric / (RAWFP_numeric / AdjFP_numeric)
+[01.12.2016 14:41:53,440] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:53,490] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1380.78
+[01.12.2016 14:41:53,491] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (6.0 + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)
+[01.12.2016 14:41:53,491] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:53,546] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1377.97
+[01.12.2016 14:41:53,546] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: 3.0 + (KSLOC_numeric / (RAWFP_numeric / AdjFP_numeric))
+[01.12.2016 14:41:53,546] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:53,586] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 105.7 MB
+[01.12.2016 14:41:53,617] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1366.34
+[01.12.2016 14:41:53,617] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + KSLOC_numeric) / (RAWFP_numeric / AdjFP_numeric)) - ((KSLOC_numeric + Duration_numeric) / 6.0)
+[01.12.2016 14:41:53,618] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:53,639] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1315.11
+[01.12.2016 14:41:53,639] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + (Duration_numeric + KSLOC_numeric)) / (RAWFP_numeric / AdjFP_numeric)) - ((KSLOC_numeric + Duration_numeric) / 6.0)
+[01.12.2016 14:41:53,640] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:53,655] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:53,655] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1315.11
+[01.12.2016 14:41:53,655] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + (Duration_numeric + KSLOC_numeric)) / (RAWFP_numeric / AdjFP_numeric)) - ((KSLOC_numeric + Duration_numeric) / 6.0)
+[01.12.2016 14:41:53,656] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:54,937] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:54,949] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:54,971] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:54,973] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:54,983] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:55,024] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:55,025] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:55,101] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1479.70
+[01.12.2016 14:41:55,102] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: KSLOC_numeric + Duration_numeric
+[01.12.2016 14:41:55,103] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:41:55,123] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1478.25
+[01.12.2016 14:41:55,123] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / 6.0) + (Hardware_numeric / Hardware_numeric)
+[01.12.2016 14:41:55,124] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:55,145] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1456.59
+[01.12.2016 14:41:55,146] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (8.0 + 8.0) + (AdjFP_numeric / 6.0)
+[01.12.2016 14:41:55,146] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:55,161] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1378.58
+[01.12.2016 14:41:55,161] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / RAWFP_numeric) * (Language_numeric + KSLOC_numeric)
+[01.12.2016 14:41:55,162] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:55,302] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1369.20
+[01.12.2016 14:41:55,303] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / RAWFP_numeric) * (KSLOC_numeric + (RAWFP_numeric / KSLOC_numeric))
+[01.12.2016 14:41:55,303] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:55,467] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.4 MB
+[01.12.2016 14:41:55,503] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1358.08
+[01.12.2016 14:41:55,503] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AdjFP_numeric / RAWFP_numeric) * (KSLOC_numeric + (RAWFP_numeric / KSLOC_numeric))) - 6.0
+[01.12.2016 14:41:55,503] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:55,539] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:55,540] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1358.08
+[01.12.2016 14:41:55,540] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AdjFP_numeric / RAWFP_numeric) * (KSLOC_numeric + (RAWFP_numeric / KSLOC_numeric))) - 6.0
+[01.12.2016 14:41:55,540] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:56,712] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:56,723] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:56,744] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:56,746] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:56,756] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:56,799] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:56,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:56,882] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1479.69
+[01.12.2016 14:41:56,882] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + KSLOC_numeric) - ((Language_numeric * Duration_numeric) / (RAWFP_numeric * Duration_numeric))
+[01.12.2016 14:41:56,883] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:56,912] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1380.97
+[01.12.2016 14:41:56,912] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (KSLOC_numeric / RAWFP_numeric) * AdjFP_numeric
+[01.12.2016 14:41:56,912] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:56,944] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1335.27
+[01.12.2016 14:41:56,944] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (KSLOC_numeric + AdjFP_numeric) / (5.0 + Language_numeric)
+[01.12.2016 14:41:56,944] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:57,103] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1333.47
+[01.12.2016 14:41:57,103] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + KSLOC_numeric) + AdjFP_numeric) / (5.0 + Language_numeric)
+[01.12.2016 14:41:57,103] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:57,131] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1331.67
+[01.12.2016 14:41:57,131] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + (Duration_numeric + KSLOC_numeric)) + AdjFP_numeric) / (5.0 + Language_numeric)
+[01.12.2016 14:41:57,132] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:57,263] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.3 MB
+[01.12.2016 14:41:57,342] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:57,343] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1331.67
+[01.12.2016 14:41:57,343] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + (Duration_numeric + KSLOC_numeric)) + AdjFP_numeric) / (5.0 + Language_numeric)
+[01.12.2016 14:41:57,343] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:58,421] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:41:58,433] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:41:58,458] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:41:58,460] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:41:58,470] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:41:58,511] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:41:58,512] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:41:58,591] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1473.78
+[01.12.2016 14:41:58,592] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / KSLOC_numeric) + KSLOC_numeric
+[01.12.2016 14:41:58,592] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:58,638] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1471.78
+[01.12.2016 14:41:58,639] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AdjFP_numeric / KSLOC_numeric) + KSLOC_numeric) - (Language_numeric - Duration_numeric)
+[01.12.2016 14:41:58,639] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:58,675] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1435.48
+[01.12.2016 14:41:58,676] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AdjFP_numeric / (KSLOC_numeric + 4.0)) / (Language_numeric / Hardware_numeric)) + ((Language_numeric / Language_numeric) + (Duration_numeric + KSLOC_numeric))
+[01.12.2016 14:41:58,676] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:41:58,725] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1384.05
+[01.12.2016 14:41:58,725] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric * 6.0) + (AdjFP_numeric - Duration_numeric)) * ((Hardware_numeric * KSLOC_numeric) / (RAWFP_numeric * Hardware_numeric))
+[01.12.2016 14:41:58,725] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:41:58,757] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1356.07
+[01.12.2016 14:41:58,757] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / Language_numeric) / (Language_numeric + 4.0)
+[01.12.2016 14:41:58,757] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:41:58,977] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.3 MB
+[01.12.2016 14:41:59,043] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:41:59,044] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1356.07
+[01.12.2016 14:41:59,044] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / Language_numeric) / (Language_numeric + 4.0)
+[01.12.2016 14:41:59,044] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:07,267] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:07,279] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:07,300] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:07,303] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:07,313] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:07,356] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:07,357] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:07,440] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1476.70
+[01.12.2016 14:42:07,441] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric + KSLOC_numeric) + Hardware_numeric) - Language_numeric
+[01.12.2016 14:42:07,441] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:07,467] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1462.30
+[01.12.2016 14:42:07,467] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: RAWFP_numeric / 5.0
+[01.12.2016 14:42:07,468] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:42:07,483] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1378.96
+[01.12.2016 14:42:07,483] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)
+[01.12.2016 14:42:07,483] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:07,574] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1377.96
+[01.12.2016 14:42:07,574] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric
+[01.12.2016 14:42:07,574] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:07,600] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1377.58
+[01.12.2016 14:42:07,600] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric + Language_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric
+[01.12.2016 14:42:07,600] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:07,618] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1376.96
+[01.12.2016 14:42:07,618] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric) + Hardware_numeric
+[01.12.2016 14:42:07,618] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:07,660] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1376.68
+[01.12.2016 14:42:07,661] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric) + (AdjFP_numeric / RAWFP_numeric)
+[01.12.2016 14:42:07,661] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:07,672] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1366.47
+[01.12.2016 14:42:07,672] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric
+[01.12.2016 14:42:07,672] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:07,771] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1366.23
+[01.12.2016 14:42:07,772] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric) * (AdjFP_numeric / RAWFP_numeric)
+[01.12.2016 14:42:07,772] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:07,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.4 MB
+[01.12.2016 14:42:07,840] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1362.83
+[01.12.2016 14:42:07,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric) - Language_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric
+[01.12.2016 14:42:07,841] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:07,865] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1362.45
+[01.12.2016 14:42:07,865] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric) - Language_numeric) + Hardware_numeric) * (AdjFP_numeric / RAWFP_numeric)
+[01.12.2016 14:42:07,866] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:07,889] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:07,889] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1362.45
+[01.12.2016 14:42:07,890] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((((Hardware_numeric + KSLOC_numeric) * (AdjFP_numeric / RAWFP_numeric)) + Hardware_numeric) - Language_numeric) + Hardware_numeric) * (AdjFP_numeric / RAWFP_numeric)
+[01.12.2016 14:42:07,890] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:09,862] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:09,873] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:09,895] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:09,897] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:09,907] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:09,945] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:09,946] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:10,025] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1375.95
+[01.12.2016 14:42:10,027] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric * AdjFP_numeric) + (KSLOC_numeric - 6.0)) / ((6.0 * Language_numeric) - (KSLOC_numeric - KSLOC_numeric))
+[01.12.2016 14:42:10,027] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:10,111] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1373.17
+[01.12.2016 14:42:10,111] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric * AdjFP_numeric) + ((KSLOC_numeric + (Language_numeric + Hardware_numeric)) - 6.0)) / ((6.0 * Language_numeric) - (KSLOC_numeric - KSLOC_numeric))
+[01.12.2016 14:42:10,112] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:10,162] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1372.31
+[01.12.2016 14:42:10,162] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric * AdjFP_numeric) + (KSLOC_numeric + Duration_numeric)) / (6.0 * Language_numeric)
+[01.12.2016 14:42:10,163] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:10,188] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1369.84
+[01.12.2016 14:42:10,188] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric * AdjFP_numeric) + ((Duration_numeric + KSLOC_numeric) + Duration_numeric)) / (6.0 * Language_numeric)
+[01.12.2016 14:42:10,188] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:10,217] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1274.87
+[01.12.2016 14:42:10,218] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((4.0 + AdjFP_numeric) + ((KSLOC_numeric + Duration_numeric) + Duration_numeric)) / (6.0 * Language_numeric)
+[01.12.2016 14:42:10,218] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:10,266] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1270.85
+[01.12.2016 14:42:10,266] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((4.0 + AdjFP_numeric) + (((KSLOC_numeric + Duration_numeric) + Duration_numeric) + Duration_numeric)) / (6.0 * Language_numeric)
+[01.12.2016 14:42:10,266] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:10,349] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1268.82
+[01.12.2016 14:42:10,349] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((KSLOC_numeric + Duration_numeric) + AdjFP_numeric) + ((KSLOC_numeric + Duration_numeric) / (6.0 * Language_numeric))) / (6.0 * Language_numeric)
+[01.12.2016 14:42:10,349] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:10,408] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.1 MB
+[01.12.2016 14:42:10,474] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:10,474] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1268.82
+[01.12.2016 14:42:10,474] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((KSLOC_numeric + Duration_numeric) + AdjFP_numeric) + ((KSLOC_numeric + Duration_numeric) / (6.0 * Language_numeric))) / (6.0 * Language_numeric)
+[01.12.2016 14:42:10,474] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:14,224] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:14,235] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:14,257] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:14,260] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:14,269] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:14,310] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:14,311] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:14,388] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1377.49
+[01.12.2016 14:42:14,388] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (KSLOC_numeric + AdjFP_numeric) / (Language_numeric * 7.0)
+[01.12.2016 14:42:14,389] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:14,423] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1357.49
+[01.12.2016 14:42:14,424] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Language_numeric + Language_numeric) + ((KSLOC_numeric + AdjFP_numeric) / (Language_numeric * 7.0))
+[01.12.2016 14:42:14,424] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:14,520] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1332.49
+[01.12.2016 14:42:14,521] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric + Language_numeric) + ((KSLOC_numeric + AdjFP_numeric) / (Language_numeric * 7.0))) + Hardware_numeric
+[01.12.2016 14:42:14,521] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:14,550] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1327.49
+[01.12.2016 14:42:14,550] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Hardware_numeric + Hardware_numeric) + ((KSLOC_numeric + AdjFP_numeric) / (Language_numeric * 7.0))
+[01.12.2016 14:42:14,551] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:14,628] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1281.00
+[01.12.2016 14:42:14,629] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Duration_numeric + ((KSLOC_numeric + AdjFP_numeric) / (Language_numeric * 7.0))
+[01.12.2016 14:42:14,629] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:14,678] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1266.19
+[01.12.2016 14:42:14,679] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric + Duration_numeric) + ((KSLOC_numeric + AdjFP_numeric) / (Language_numeric * 7.0))
+[01.12.2016 14:42:14,679] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:14,770] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.0 MB
+[01.12.2016 14:42:14,805] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1264.19
+[01.12.2016 14:42:14,805] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Duration_numeric + (Duration_numeric + (((KSLOC_numeric + AdjFP_numeric) / (Language_numeric * 7.0)) - Language_numeric))
+[01.12.2016 14:42:14,805] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:14,850] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:14,850] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1264.19
+[01.12.2016 14:42:14,850] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Duration_numeric + (Duration_numeric + (((KSLOC_numeric + AdjFP_numeric) / (Language_numeric * 7.0)) - Language_numeric))
+[01.12.2016 14:42:14,851] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:16,210] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:16,222] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:16,243] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:16,246] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:16,255] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:16,296] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:16,297] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:16,373] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1467.75
+[01.12.2016 14:42:16,374] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric - KSLOC_numeric) / (RAWFP_numeric / Hardware_numeric)) + ((KSLOC_numeric - Language_numeric) + (AdjFP_numeric / KSLOC_numeric))
+[01.12.2016 14:42:16,374] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:16,401] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1373.54
+[01.12.2016 14:42:16,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((4.0 + KSLOC_numeric) * (Hardware_numeric + AdjFP_numeric)) / ((Duration_numeric - Language_numeric) - (Language_numeric - RAWFP_numeric))
+[01.12.2016 14:42:16,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:16,453] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1335.36
+[01.12.2016 14:42:16,453] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AdjFP_numeric - (5.0 / Language_numeric)) / 5.0) / Language_numeric
+[01.12.2016 14:42:16,454] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:16,499] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1334.59
+[01.12.2016 14:42:16,499] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AdjFP_numeric - ((Language_numeric - KSLOC_numeric) / ((Hardware_numeric * Hardware_numeric) + (Language_numeric + KSLOC_numeric)))) / 5.0) / Language_numeric
+[01.12.2016 14:42:16,500] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:16,560] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1327.26
+[01.12.2016 14:42:16,560] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Language_numeric) + ((AdjFP_numeric - (5.0 / Language_numeric)) / 5.0)) / Language_numeric
+[01.12.2016 14:42:16,561] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:16,640] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1323.17
+[01.12.2016 14:42:16,646] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Language_numeric) + ((AdjFP_numeric - (AdjFP_numeric / KSLOC_numeric)) / 5.0)) / Language_numeric
+[01.12.2016 14:42:16,646] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:16,687] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1321.79
+[01.12.2016 14:42:16,688] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Language_numeric) + ((AdjFP_numeric - ((8.0 / Language_numeric) + (AdjFP_numeric / KSLOC_numeric))) / 5.0)) / Language_numeric
+[01.12.2016 14:42:16,688] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:16,702] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1308.91
+[01.12.2016 14:42:16,703] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric + (((AdjFP_numeric - (2.0 / Language_numeric)) / 5.0) / Language_numeric)) - (AdjFP_numeric / KSLOC_numeric)) + Duration_numeric
+[01.12.2016 14:42:16,703] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 7
+[01.12.2016 14:42:16,754] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1271.28
+[01.12.2016 14:42:16,754] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Language_numeric) + ((AdjFP_numeric - ((AdjFP_numeric / 3.0) - (KSLOC_numeric + Duration_numeric))) / 5.0)) / Language_numeric
+[01.12.2016 14:42:16,755] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:16,755] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.0 MB
+[01.12.2016 14:42:16,821] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:16,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1271.28
+[01.12.2016 14:42:16,821] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Language_numeric) + ((AdjFP_numeric - ((AdjFP_numeric / 3.0) - (KSLOC_numeric + Duration_numeric))) / 5.0)) / Language_numeric
+[01.12.2016 14:42:16,822] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:17,937] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:17,949] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:17,969] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:17,971] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:17,983] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:18,026] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:18,028] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:18,106] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1378.97
+[01.12.2016 14:42:18,107] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (KSLOC_numeric / (RAWFP_numeric / AdjFP_numeric)) + Language_numeric
+[01.12.2016 14:42:18,107] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:18,163] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1374.78
+[01.12.2016 14:42:18,163] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Hardware_numeric + AdjFP_numeric) - (Language_numeric * Duration_numeric)) / ((KSLOC_numeric + RAWFP_numeric) / (Duration_numeric + KSLOC_numeric))
+[01.12.2016 14:42:18,164] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:18,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1368.90
+[01.12.2016 14:42:18,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / RAWFP_numeric) * (KSLOC_numeric + (AdjFP_numeric / KSLOC_numeric))
+[01.12.2016 14:42:18,231] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:18,274] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1363.67
+[01.12.2016 14:42:18,274] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Hardware_numeric + AdjFP_numeric) - (RAWFP_numeric / AdjFP_numeric)) / ((KSLOC_numeric + RAWFP_numeric) / (Duration_numeric + KSLOC_numeric))
+[01.12.2016 14:42:18,275] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:18,346] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1351.54
+[01.12.2016 14:42:18,347] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: RAWFP_numeric / (5.0 * Language_numeric)
+[01.12.2016 14:42:18,347] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:18,373] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1348.96
+[01.12.2016 14:42:18,373] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Hardware_numeric + ((AdjFP_numeric - (RAWFP_numeric / AdjFP_numeric)) / ((KSLOC_numeric + RAWFP_numeric) / (Duration_numeric + KSLOC_numeric)))
+[01.12.2016 14:42:18,373] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:18,389] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1335.76
+[01.12.2016 14:42:18,390] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (RAWFP_numeric / KSLOC_numeric) + ((AdjFP_numeric - (RAWFP_numeric / AdjFP_numeric)) / ((KSLOC_numeric + RAWFP_numeric) / (Duration_numeric + KSLOC_numeric)))
+[01.12.2016 14:42:18,390] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:18,475] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1326.34
+[01.12.2016 14:42:18,475] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric / (RAWFP_numeric / AdjFP_numeric)) - (AdjFP_numeric / RAWFP_numeric)) + ((AdjFP_numeric / (Language_numeric / Hardware_numeric)) / (Duration_numeric + KSLOC_numeric))
+[01.12.2016 14:42:18,476] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:18,514] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.3 MB
+[01.12.2016 14:42:18,575] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:18,575] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1326.34
+[01.12.2016 14:42:18,575] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric / (RAWFP_numeric / AdjFP_numeric)) - (AdjFP_numeric / RAWFP_numeric)) + ((AdjFP_numeric / (Language_numeric / Hardware_numeric)) / (Duration_numeric + KSLOC_numeric))
+[01.12.2016 14:42:18,575] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:25,007] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:25,019] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:25,038] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:25,041] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:25,059] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:25,114] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:25,115] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:25,241] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1413.10
+[01.12.2016 14:42:25,243] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Language_numeric + Language_numeric) + RAWFP_numeric) / (Language_numeric * 6.0)
+[01.12.2016 14:42:25,243] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:25,275] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1292.36
+[01.12.2016 14:42:25,276] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric * Hardware_numeric) + RAWFP_numeric) / (Language_numeric * 6.0)
+[01.12.2016 14:42:25,276] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:25,397] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1286.83
+[01.12.2016 14:42:25,398] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Hardware_numeric * Language_numeric) + (((KSLOC_numeric / Language_numeric) + RAWFP_numeric) / (Language_numeric * 6.0))
+[01.12.2016 14:42:25,398] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:25,437] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1283.11
+[01.12.2016 14:42:25,437] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Hardware_numeric * Language_numeric) + (((KSLOC_numeric + Duration_numeric) + RAWFP_numeric) / (Language_numeric * 6.0))
+[01.12.2016 14:42:25,438] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:25,478] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:25,488] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1272.62
+[01.12.2016 14:42:25,493] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / RAWFP_numeric) * (Duration_numeric + ((((KSLOC_numeric / Language_numeric) + RAWFP_numeric) / (Language_numeric * 6.0)) + 4.0))
+[01.12.2016 14:42:25,493] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:25,496] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:25,521] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:25,525] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:25,537] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:25,601] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1267.79
+[01.12.2016 14:42:25,602] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Hardware_numeric + (((KSLOC_numeric + Duration_numeric) + ((AdjFP_numeric / 6.0) + Duration_numeric)) / (Language_numeric * 2.0))
+[01.12.2016 14:42:25,602] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:25,605] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:25,610] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:25,743] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1463.20
+[01.12.2016 14:42:25,744] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric / 5.0
+[01.12.2016 14:42:25,744] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:42:25,754] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1194.00
+[01.12.2016 14:42:25,754] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Hardware_numeric + (((Duration_numeric + (AdjFP_numeric / 5.0)) + ((AdjFP_numeric / RAWFP_numeric) * (Duration_numeric + KSLOC_numeric))) / (Language_numeric * 2.0))
+[01.12.2016 14:42:25,755] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:25,792] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1409.78
+[01.12.2016 14:42:25,793] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Duration_numeric) + (Duration_numeric + (KSLOC_numeric + KSLOC_numeric))) / ((KSLOC_numeric + RAWFP_numeric) / (AdjFP_numeric / 2.0))
+[01.12.2016 14:42:25,793] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:25,881] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1372.99
+[01.12.2016 14:42:25,882] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Hardware_numeric) + (Duration_numeric + (KSLOC_numeric + KSLOC_numeric))) / ((KSLOC_numeric + RAWFP_numeric) / (AdjFP_numeric / 2.0))
+[01.12.2016 14:42:25,882] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:25,942] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 100.5 MB
+[01.12.2016 14:42:25,971] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1365.30
+[01.12.2016 14:42:25,972] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Hardware_numeric) + (Duration_numeric + ((Hardware_numeric + KSLOC_numeric) + KSLOC_numeric))) / ((KSLOC_numeric + RAWFP_numeric) / (AdjFP_numeric / 2.0))
+[01.12.2016 14:42:25,972] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:26,027] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:26,028] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1194.00
+[01.12.2016 14:42:26,028] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Hardware_numeric + (((Duration_numeric + (AdjFP_numeric / 5.0)) + ((AdjFP_numeric / RAWFP_numeric) * (Duration_numeric + KSLOC_numeric))) / (Language_numeric * 2.0))
+[01.12.2016 14:42:26,029] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:26,039] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1332.86
+[01.12.2016 14:42:26,040] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Hardware_numeric) + (Duration_numeric + (Duration_numeric + (KSLOC_numeric + KSLOC_numeric)))) / ((KSLOC_numeric + RAWFP_numeric) / (AdjFP_numeric / 2.0))
+[01.12.2016 14:42:26,040] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:26,230] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 171.5 MB
+[01.12.2016 14:42:26,289] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:26,289] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1332.86
+[01.12.2016 14:42:26,290] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((Duration_numeric - Hardware_numeric) + (Duration_numeric + (Duration_numeric + (KSLOC_numeric + KSLOC_numeric)))) / ((KSLOC_numeric + RAWFP_numeric) / (AdjFP_numeric / 2.0))
+[01.12.2016 14:42:26,291] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:27,722] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:27,733] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:27,755] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:27,757] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:27,767] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:27,810] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:27,811] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:27,884] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1469.26
+[01.12.2016 14:42:27,885] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (Duration_numeric / 5.0) + (AdjFP_numeric / 6.0)
+[01.12.2016 14:42:27,885] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:27,918] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1463.15
+[01.12.2016 14:42:27,918] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / 6.0) + (Language_numeric * Hardware_numeric)
+[01.12.2016 14:42:27,919] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:27,937] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1399.67
+[01.12.2016 14:42:27,937] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((2.0 + Language_numeric) + (KSLOC_numeric - Language_numeric)) * AdjFP_numeric) / (Language_numeric * RAWFP_numeric)
+[01.12.2016 14:42:27,937] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:27,989] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1382.87
+[01.12.2016 14:42:27,989] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (KSLOC_numeric + RAWFP_numeric) / (6.0 * 1.0)
+[01.12.2016 14:42:27,989] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:28,015] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1372.04
+[01.12.2016 14:42:28,016] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((9.0 + KSLOC_numeric) / 5.0) + (AdjFP_numeric / 6.0)
+[01.12.2016 14:42:28,016] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:28,124] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1367.08
+[01.12.2016 14:42:28,125] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Hardware_numeric + (((9.0 + KSLOC_numeric) / 5.0) + (AdjFP_numeric / 6.0))
+[01.12.2016 14:42:28,126] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:28,143] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1361.68
+[01.12.2016 14:42:28,143] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Hardware_numeric + ((KSLOC_numeric / 5.0) + (AdjFP_numeric / 6.0))
+[01.12.2016 14:42:28,144] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:28,254] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.1 MB
+[01.12.2016 14:42:28,320] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:28,320] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1361.68
+[01.12.2016 14:42:28,320] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: Hardware_numeric + ((KSLOC_numeric / 5.0) + (AdjFP_numeric / 6.0))
+[01.12.2016 14:42:28,321] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:33,086] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:33,097] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:33,120] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:33,123] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:33,132] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:33,171] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:33,172] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:33,248] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1479.70
+[01.12.2016 14:42:33,249] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: KSLOC_numeric + Duration_numeric
+[01.12.2016 14:42:33,249] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 1
+[01.12.2016 14:42:33,297] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1421.78
+[01.12.2016 14:42:33,298] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((AdjFP_numeric / 6.0) + (Duration_numeric / Language_numeric)) + ((Duration_numeric - Language_numeric) / (RAWFP_numeric * 6.0))
+[01.12.2016 14:42:33,298] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:33,320] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1378.18
+[01.12.2016 14:42:33,320] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (5.0 + KSLOC_numeric) / (RAWFP_numeric / AdjFP_numeric)
+[01.12.2016 14:42:33,321] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:33,388] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1377.44
+[01.12.2016 14:42:33,389] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (4.0 + KSLOC_numeric) / (RAWFP_numeric / AdjFP_numeric)
+[01.12.2016 14:42:33,389] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:33,401] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1377.39
+[01.12.2016 14:42:33,401] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((4.0 + KSLOC_numeric) / (RAWFP_numeric / AdjFP_numeric)) + (Hardware_numeric / Duration_numeric)
+[01.12.2016 14:42:33,402] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:33,537] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1363.30
+[01.12.2016 14:42:33,539] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (((KSLOC_numeric - Language_numeric) / (RAWFP_numeric / AdjFP_numeric)) + (Duration_numeric / Language_numeric)) / (RAWFP_numeric / AdjFP_numeric)
+[01.12.2016 14:42:33,539] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:33,620] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 102.8 MB
+[01.12.2016 14:42:33,697] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1335.27
+[01.12.2016 14:42:33,698] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric + KSLOC_numeric) / (5.0 + Language_numeric)
+[01.12.2016 14:42:33,698] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:33,698] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:33,699] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1335.27
+[01.12.2016 14:42:33,699] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric + KSLOC_numeric) / (5.0 + Language_numeric)
+[01.12.2016 14:42:33,700] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:39,207] [main] INFO  FileObject  - Reading File kemerer.arff
+[01.12.2016 14:42:39,217] [main] INFO  CostEstimationFitness  - Inputs size: 6; variables: 6; dataLen: 15; outputs size: 15
+[01.12.2016 14:42:39,237] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[01.12.2016 14:42:39,239] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 123.0 MB
+[01.12.2016 14:42:39,249] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[01.12.2016 14:42:39,290] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 123.0 MB
+[01.12.2016 14:42:39,291] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 0, memory free: 120.7 MB
+[01.12.2016 14:42:39,372] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1454.94
+[01.12.2016 14:42:39,373] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (KSLOC_numeric + Duration_numeric) - (KSLOC_numeric / Duration_numeric)
+[01.12.2016 14:42:39,374] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:39,476] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1449.94
+[01.12.2016 14:42:39,477] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((KSLOC_numeric + Duration_numeric) + 5.0) - (KSLOC_numeric / Duration_numeric)
+[01.12.2016 14:42:39,477] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[01.12.2016 14:42:39,490] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1380.97
+[01.12.2016 14:42:39,491] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric / RAWFP_numeric) * KSLOC_numeric
+[01.12.2016 14:42:39,491] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[01.12.2016 14:42:39,531] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1354.31
+[01.12.2016 14:42:39,531] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric * ((Duration_numeric + (KSLOC_numeric + Duration_numeric)) / (KSLOC_numeric + AdjFP_numeric))
+[01.12.2016 14:42:39,531] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 4
+[01.12.2016 14:42:39,547] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1352.03
+[01.12.2016 14:42:39,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric * ((Duration_numeric + (Hardware_numeric + ((Duration_numeric + KSLOC_numeric) * (KSLOC_numeric / KSLOC_numeric)))) / (KSLOC_numeric + AdjFP_numeric))
+[01.12.2016 14:42:39,548] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:39,622] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1331.23
+[01.12.2016 14:42:39,623] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric * ((Duration_numeric + ((Duration_numeric + KSLOC_numeric) + Duration_numeric)) / ((KSLOC_numeric + Duration_numeric) + AdjFP_numeric))
+[01.12.2016 14:42:39,623] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:39,730] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1329.23
+[01.12.2016 14:42:39,730] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (AdjFP_numeric * ((Duration_numeric + ((Duration_numeric + KSLOC_numeric) + Duration_numeric)) / ((KSLOC_numeric + Duration_numeric) + AdjFP_numeric))) - Language_numeric
+[01.12.2016 14:42:39,731] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[01.12.2016 14:42:39,747] [main] INFO  org.jgap.gp.impl.GPGenotype  - Evolving generation 25, memory free: 103.2 MB
+[01.12.2016 14:42:39,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1329.22
+[01.12.2016 14:42:39,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric * (((Duration_numeric + (KSLOC_numeric + Duration_numeric)) + Duration_numeric) / (KSLOC_numeric + AdjFP_numeric))
+[01.12.2016 14:42:39,801] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[01.12.2016 14:42:39,813] [main] INFO  CostEstimationMain  - Evaulation of dataset: kemerer.arff
+[01.12.2016 14:42:39,813] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 1329.22
+[01.12.2016 14:42:39,813] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: AdjFP_numeric * (((Duration_numeric + (KSLOC_numeric + Duration_numeric)) + Duration_numeric) / (KSLOC_numeric + AdjFP_numeric))
+[01.12.2016 14:42:39,814] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5

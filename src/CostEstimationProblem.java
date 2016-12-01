@@ -5,7 +5,11 @@ import org.jgap.InvalidConfigurationException;
 import org.jgap.gp.CommandGene;
 import org.jgap.gp.GPProblem;
 import org.jgap.gp.function.Add;
+import org.jgap.gp.function.Divide;
+import org.jgap.gp.function.Exp;
+import org.jgap.gp.function.Log;
 import org.jgap.gp.function.Multiply;
+import org.jgap.gp.function.Subtract;
 import org.jgap.gp.impl.DeltaGPFitnessEvaluator;
 import org.jgap.gp.impl.GPConfiguration;
 import org.jgap.gp.impl.GPGenotype;
@@ -39,11 +43,11 @@ public class CostEstimationProblem extends GPProblem{
         List<Double> outputs = fo.getDataForLabel(labels.get(labels.size()-1));
         
         config.setGPFitnessEvaluator(new DeltaGPFitnessEvaluator());
-        config.setMaxInitDepth(4);
-        config.setPopulationSize(1000);
-        config.setMaxCrossoverDepth(8);
+        config.setMaxInitDepth(Parameters.MAX_INIT_DEPTH);
+        config.setPopulationSize(Parameters.POPULATION_SIZE);
+        config.setMaxCrossoverDepth(Parameters.MAX_CROSSOVER_DEPTH);
         config.setFitnessFunction(new CostEstimationFitness(inputs, outputs, variables)); // Inputs, Efforts, and variables
-        config.setStrictProgramCreation(true);
+        config.setStrictProgramCreation(Parameters.STRICT_PROGRAM_CREATION);
 	}
 	
 	@SuppressWarnings("rawtypes")
@@ -60,12 +64,25 @@ public class CostEstimationProblem extends GPProblem{
         // Next, we define the set of available GP commands and terminals to
         // use.
         List<CommandGene> nodeSet = new ArrayList<CommandGene>();
-        nodeSet.addAll(variables);
+        for(int i = 0; i < variables.size(); i++){
+        	nodeSet.add(variables.get(i));
+        }
         nodeSet.add(new Add(config, CommandGene.DoubleClass));
+        nodeSet.add(new Subtract(config, CommandGene.DoubleClass));
         nodeSet.add(new Multiply(config, CommandGene.DoubleClass));
+        nodeSet.add(new Divide(config, CommandGene.DoubleClass));
+        if(Parameters.INCLUDE_OTHER_OPS){
+        	nodeSet.add(new Exp(config, CommandGene.DoubleClass));
+        	nodeSet.add(new Log(config, CommandGene.DoubleClass));
+        }
         nodeSet.add(new Terminal(config, CommandGene.DoubleClass, 0.0, 10.0, true));
         
-        CommandGene[][] nodeSets = { nodeSet.toArray(new CommandGene[nodeSet.size()]) };
+        CommandGene[] nodeSetArr = new CommandGene[nodeSet.size()];
+        for(int i = 0; i < nodeSet.size(); i++){
+        	nodeSetArr[i] = nodeSet.get(i);
+        }
+        
+        CommandGene[][] nodeSets = { nodeSetArr };
 
         GPGenotype result = GPGenotype.randomInitialGenotype(config, types, argTypes,
                 nodeSets, 20, true);
