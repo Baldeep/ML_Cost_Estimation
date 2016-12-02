@@ -3,8 +3,8 @@ public class Parameters {
 
 	public static final boolean DEBUG_FILEPARSER = true;
 	
-	//public static final String FILENAME = "china.arff";
-	public static final String FILENAME = "kemerer.arff";
+	public static final String FILENAME = "china.arff";
+	//public static final String FILENAME = "kemerer.arff";
 	//public static final String FILENAME = "maxwell.arff";
 	//public static final String FILENAME = "miyazaki94.arff";
 	
@@ -23,7 +23,7 @@ public class Parameters {
 	
 	// Mean Absolute Error
 	// Uses formula sum(abs(actual-estimated))/#ofValues
-	public static final boolean USE_MAE = true;
+	public static final boolean USE_MAE = false;
 	
 	// Mean Magniture of Relative Error
 	// Uses formula abs(actual-estimated)/actual
@@ -31,7 +31,7 @@ public class Parameters {
 	
 	//Proportion of Estimates within n%
 	// Uses formula sum(abs(actual-estimated))/#ofValues
-	public static final boolean USE_PREDN = false;
+	public static final boolean USE_PREDN = true;
 	// Percentage +/- actual value the result should be in. 
 	public static final double PREDN_PERCENTAGE = 0.10;
 	
